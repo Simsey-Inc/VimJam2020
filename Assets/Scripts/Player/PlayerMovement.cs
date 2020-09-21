@@ -19,6 +19,10 @@ public class PlayerMovement : MonoBehaviour
 
     [SerializeField]
     private Transform feet;
+
+    [SerializeField]
+    private Animator animator;
+
     #endregion
 
     #region Components
@@ -29,7 +33,11 @@ public class PlayerMovement : MonoBehaviour
     private float movementX;
     
     private float numJumps;
+
+    private bool facingRight = true;
     #endregion
+
+   
 
     private void Start()
     {
@@ -40,6 +48,10 @@ public class PlayerMovement : MonoBehaviour
     private void Update()
     {
         movementX = Input.GetAxisRaw("Horizontal");
+
+        animator.SetFloat("Speed", Mathf.Abs(movementX));
+        animator.SetBool("isGrounded", IsGrounded());
+
         if (IsGrounded()) {
             ResetJumps();
         }
@@ -50,6 +62,7 @@ public class PlayerMovement : MonoBehaviour
 
     private void FixedUpdate()
     {
+        Debug.Log(rb.velocity);
         Move();
     }
 
@@ -65,6 +78,18 @@ public class PlayerMovement : MonoBehaviour
         } else if (rb.velocity.x < -maxMoveSpeed) {
             rb.velocity = new Vector2(-maxMoveSpeed, rb.velocity.y);
         }
+
+        if (movementX > 0 && !facingRight)
+        {
+            // ... flip the player.
+            Flip();
+        }
+        // Otherwise if the input is moving the player left and the player is facing right...
+        else if (movementX < 0 && facingRight)
+        {
+            // ... flip the player.
+            Flip();
+        }
     }
 
     private void Jump() {
@@ -74,7 +99,7 @@ public class PlayerMovement : MonoBehaviour
     }
 
     private bool IsGrounded() {
-        Collider2D[] collidingWithFeet = Physics2D.OverlapCircleAll(feet.position, 0.01f); 
+        Collider2D[] collidingWithFeet = Physics2D.OverlapCircleAll(feet.position, 0.1f); 
 
         foreach (Collider2D collider in collidingWithFeet) {
             if (collider.tag.Equals("Environment")) {
@@ -86,6 +111,15 @@ public class PlayerMovement : MonoBehaviour
 
     private void ResetJumps() {
         numJumps = maxNumJumps;
+    }
+
+    private void Flip()
+    {
+        facingRight = !facingRight;
+
+        Vector3 theScale = transform.localScale;
+        theScale.x *= -1;
+        transform.localScale = theScale;
     }
 
 }

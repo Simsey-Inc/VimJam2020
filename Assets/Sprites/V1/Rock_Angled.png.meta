@@ -1,19 +1,13 @@
 fileFormatVersion: 2
-guid: dd734e2a02885ef47a1d53411a449f1b
+guid: 981cc0c7b99607c45905e002a2278b4d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5625930870112058973
-    second: Kid_Running_Animation 1_0
+      213: -2671891338887533336
+    second: Rock_Angled_0
   - first:
-      213: -4291942699616807573
-    second: Kid_Running_Animation 1_1
-  - first:
-      213: 6750356365618728713
-    second: Kid_Running_Animation 1_2
-  - first:
-      213: -7097652151364705694
-    second: Kid_Running_Animation 1_3
+      213: 5260302817852518026
+    second: Rock_Angled_1
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -57,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -123,13 +117,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Kid_Running_Animation 1_0
+      name: Rock_Angled_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 18
-        height: 23
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,20 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a1011c5eadace1b0800000000000000
-      internalID: -5625930870112058973
+      spriteID: 8ec6a2bcbf88bead0800000000000000
+      internalID: -2671891338887533336
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kid_Running_Animation 1_1
+      name: Rock_Angled_1
       rect:
         serializedVersion: 2
-        x: 18
+        x: 32
         y: 0
-        width: 18
-        height: 23
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -158,50 +152,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b655209bad4ff64c0800000000000000
-      internalID: -4291942699616807573
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kid_Running_Animation 1_2
-      rect:
-        serializedVersion: 2
-        x: 36
-        y: 0
-        width: 18
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 90f400089551ead50800000000000000
-      internalID: 6750356365618728713
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kid_Running_Animation 1_3
-      rect:
-        serializedVersion: 2
-        x: 54
-        y: 0
-        width: 18
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 262ae9a29f2108d90800000000000000
-      internalID: -7097652151364705694
+      spriteID: a8ee515ea89500940800000000000000
+      internalID: 5260302817852518026
       vertices: []
       indices: 
       edges: []
