@@ -35,9 +35,13 @@ public class PlayerMovement : MonoBehaviour
     private float numJumps;
 
     private bool facingRight = true;
+
+    private bool isGrounded = false;
+
+    public bool IsGrounded { get => isGrounded; set => isGrounded = value; }
     #endregion
 
-   
+
 
     private void Start()
     {
@@ -50,11 +54,8 @@ public class PlayerMovement : MonoBehaviour
         movementX = Input.GetAxisRaw("Horizontal");
 
         animator.SetFloat("Speed", Mathf.Abs(movementX));
-        animator.SetBool("isGrounded", IsGrounded());
+        animator.SetBool("isGrounded", IsGrounded);
 
-        if (IsGrounded()) {
-            ResetJumps();
-        }
         if (Input.GetButtonDown("Jump") && numJumps > 0) {
             Jump();
         }
@@ -62,7 +63,6 @@ public class PlayerMovement : MonoBehaviour
 
     private void FixedUpdate()
     {
-        Debug.Log(rb.velocity);
         Move();
     }
 
@@ -98,19 +98,12 @@ public class PlayerMovement : MonoBehaviour
         rb.AddForce(new Vector2(0, jumpForce));
     }
 
-    private bool IsGrounded() {
-        Collider2D[] collidingWithFeet = Physics2D.OverlapCircleAll(feet.position, 0.1f); 
-
-        foreach (Collider2D collider in collidingWithFeet) {
-            if (collider.tag.Equals("Environment")) {
-                return true;
-            }
-        }
-        return false;
+    public void ResetJumps() {
+        numJumps = maxNumJumps;
     }
 
-    private void ResetJumps() {
-        numJumps = maxNumJumps;
+    public void SetNumJumpsToZero() {
+        numJumps = 0;
     }
 
     private void Flip()
