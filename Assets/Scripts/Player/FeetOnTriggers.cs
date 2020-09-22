@@ -4,7 +4,14 @@ using UnityEngine;
 
 public class FeetOnTriggers : MonoBehaviour
 {
+    #region Editor Variables
+    [SerializeField]
+    private float timeBeforeSetNumJumpsToZero;
+    #endregion
+
+    #region Private Variables
     private PlayerMovement playerMovement;
+    #endregion
 
     private void Start()
     {
@@ -23,8 +30,16 @@ public class FeetOnTriggers : MonoBehaviour
     {
         if (other.tag.Equals("Environment")) {
            playerMovement.IsGrounded = false;
-           // This prevents the player from jumping if they fall, should we allow them to?
-           playerMovement.SetNumJumpsToZero();
+           StartCoroutine(SetNumJumpsToZero());
         }
+    }
+
+    // This prevents the player from jumping if they fall, should we allow them to?
+    private IEnumerator SetNumJumpsToZero()
+    {
+        // Lets the player make jumps they slightly shouldn't
+        yield return new WaitForSeconds(timeBeforeSetNumJumpsToZero);
+        playerMovement.SetNumJumpsToZero();
+        
     }
 }
