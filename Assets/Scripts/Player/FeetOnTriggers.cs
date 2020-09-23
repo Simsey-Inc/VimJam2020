@@ -32,6 +32,11 @@ public class FeetOnTriggers : MonoBehaviour
            playerMovement.IsGrounded = false;
            StartCoroutine(SetNumJumpsToZero());
         }
+
+        if (other.tag.Equals("Death_Zone"))
+        {
+            // Die
+        }
     }
 
     // This prevents the player from jumping if they fall, should we allow them to?
