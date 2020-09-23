@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Environment
   - Death_Zone
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -16,7 +17,7 @@ TagManager:
   - 
   - 
   - CameraBounds
-  - 
+  - Ground
   - 
   - 
   - 
@@ -51,6 +52,9 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 2480553431
+    locked: 0
+  - name: Ground
+    uniqueID: 1313682157
     locked: 0
   - name: UI
     uniqueID: 468965157

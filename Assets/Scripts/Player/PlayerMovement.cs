@@ -59,6 +59,7 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetButtonDown("Jump") && numJumps > 0) {
             Jump();
         }
+        Debug.Log(numJumps);
     }
 
     private void FixedUpdate()
