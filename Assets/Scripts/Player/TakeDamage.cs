@@ -16,14 +16,15 @@ public class TakeDamage : MonoBehaviour
     #endregion
 
     #region Private Variables
-    private int currentHP;
-
     private Rigidbody2D rb2d;
     #endregion
 
     #region Public Variables
     public bool hitAnimation = false;
+
+    public int currentHP;
     #endregion
+    
 
     // Start is called before the first frame update
     void Start()

@@ -1,7 +1,52 @@
 fileFormatVersion: 2
 guid: b4fb192a9591cb943ac3b01230ae5e64
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 798805895914678878
+    second: Book_Flipping_Start_0
+  - first:
+      213: -7099646056283032244
+    second: Book_Flipping_Start_1
+  - first:
+      213: 4648286696793035372
+    second: Book_Flipping_Start_2
+  - first:
+      213: -2217077158089319034
+    second: Book_Flipping_Start_3
+  - first:
+      213: -3554620291159835906
+    second: Book_Flipping_Start_4
+  - first:
+      213: 7646323659468153509
+    second: Book_Flipping_Start_5
+  - first:
+      213: 2734191938491797037
+    second: Book_Flipping_Start_6
+  - first:
+      213: -2566982449907649944
+    second: Book_Flipping_Start_7
+  - first:
+      213: 2964607510187399244
+    second: Book_Flipping_Start_8
+  - first:
+      213: 5703800840828739879
+    second: Book_Flipping_Start_9
+  - first:
+      213: -8342501696451010956
+    second: Book_Flipping_Start_10
+  - first:
+      213: -3874614400443081854
+    second: Book_Flipping_Start_11
+  - first:
+      213: 2282677060249449982
+    second: Book_Flipping_Start_12
+  - first:
+      213: 4040284995360993880
+    second: Book_Flipping_Start_13
+  - first:
+      213: 5969253148415029491
+    second: Book_Flipping_Start_14
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -40,7 +85,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -109,7 +154,154 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Book_Flipping_Start_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 144
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a6b76eabde51b00800000000000000
+      internalID: 798805895914678878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Flipping_Start_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 144
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c453f30078df87d90800000000000000
+      internalID: -7099646056283032244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Flipping_Start_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 144
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62d5808f18028040800000000000000
+      internalID: 4648286696793035372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Flipping_Start_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 144
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d1470421c5b31e0800000000000000
+      internalID: -2217077158089319034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Flipping_Start_4
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 144
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efab50aada37baec0800000000000000
+      internalID: -3554620291159835906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Flipping_Start_5
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 144
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2a3483bd23d1a60800000000000000
+      internalID: 7646323659468153509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Book_Flipping_Start_6
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 144
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e4a89e41dc1f520800000000000000
+      internalID: 2734191938491797037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
