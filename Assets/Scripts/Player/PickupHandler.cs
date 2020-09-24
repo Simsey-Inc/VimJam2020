@@ -31,7 +31,6 @@ public class PickupHandler : MonoBehaviour
         if (other.tag.Equals("BatteryPickup")) {
             flashlight.pointLightInnerAngle += amtIncreaseInnerAngle;
             flashlight.pointLightOuterAngle += amtIncreaseInnerAngle;
-
             flashlight.pointLightInnerRadius += amtIncreaseInnerRadius;
             flashlight.pointLightOuterRadius += amtIncreaseOuterRadius;
             flashlight.intensity += amtIncreaseIntensity;
