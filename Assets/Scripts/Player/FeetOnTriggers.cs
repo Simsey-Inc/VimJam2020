@@ -26,6 +26,15 @@ public class FeetOnTriggers : MonoBehaviour
         }
     }
 
+    private void OnTriggerStay2D(Collider2D other)
+    {
+        if (Mathf.Abs(playerMovement.getVelocity().y) < 0.01f && other.tag.Equals("Environment"))
+        {
+            playerMovement.IsGrounded = true;
+            playerMovement.ResetJumps();
+        }
+    }
+
     private void OnTriggerExit2D(Collider2D other)
     {
         if (other.tag.Equals("Environment")) {
@@ -36,7 +45,6 @@ public class FeetOnTriggers : MonoBehaviour
         
     }
 
-    // This prevents the player from jumping if they fall, should we allow them to?
     private IEnumerator SetNumJumpsToZero()
     {
         // Lets the player make jumps they slightly shouldn't

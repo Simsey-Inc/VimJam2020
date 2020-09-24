@@ -67,7 +67,8 @@ public class PlayerMovement : MonoBehaviour
         Move();
     }
 
-    private void Move() {
+    private void Move()
+    {
         if (movementX * rb.velocity.x <= 0) {
             rb.velocity = new Vector2(0, rb.velocity.y);
         }
@@ -93,18 +94,26 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
-    private void Jump() {
+    private void Jump()
+    {
         numJumps--;
         rb.velocity = new Vector2(rb.velocity.x, 0);
         rb.AddForce(new Vector2(0, jumpForce));
     }
 
-    public void ResetJumps() {
+    public void ResetJumps()
+    {
         numJumps = maxNumJumps;
     }
 
-    public void SetNumJumpsToZero() {
+    public void SetNumJumpsToZero()
+    {
         numJumps = 0;
+    }
+
+    public Vector2 getVelocity()
+    {
+        return rb.velocity;
     }
 
     private void Flip()
