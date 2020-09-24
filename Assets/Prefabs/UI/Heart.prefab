@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 709001420162414770}
   - component: {fileID: 709001420162414772}
   - component: {fileID: 709001420162414771}
+  - component: {fileID: 846941563}
   m_Layer: 5
   m_Name: Heart
   m_TagString: Untagged
@@ -64,7 +65,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -8572691986955061351, guid: a0a21f0fc638145ed969829548752657,
+  m_Sprite: {fileID: -8540596373098893232, guid: 21102918f4df1774e9ebb3dcd2d2fcb1,
     type: 3}
   m_Type: 0
   m_PreserveAspect: 0
@@ -75,3 +76,22 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!95 &846941563
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 709001420162414769}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 633abe0be18f14fe5963bcf6c9b0fdf8, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

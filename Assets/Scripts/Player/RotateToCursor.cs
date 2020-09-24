@@ -27,7 +27,6 @@ public class RotateToCursor : MonoBehaviour
     
     private void Update()
     {
-        
         transform.RotateAround(shoulderTransform.position, Vector3.forward, flashlightRotationSensitivity * Input.GetAxis("Mouse Y") * Time.deltaTime);
     }
 
