@@ -16,6 +16,9 @@ public class TakeDamage : MonoBehaviour
 
     [SerializeField]
     private PlayerMovement playerMovement;
+
+    [SerializeField]
+    private List<AudioSource> playerSounds;
     #endregion
 
     #region Private Variables
@@ -67,6 +70,7 @@ public class TakeDamage : MonoBehaviour
 
     private void takeDamage(bool enemyInFront)
     {
+        playerSounds[0].Play();
         hitAnimation = true;
         healthbar.GetComponent<Healthbar>().decreaseNumHearts(0.5f);
         StartCoroutine(Knockback(0.15f, 125, transform.position, enemyInFront));

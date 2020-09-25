@@ -10,11 +10,15 @@ public class canExit : MonoBehaviour
     [SerializeField]
     private Animator animator;
 
+    [SerializeField]
+    private List<AudioSource> playerSounds;
+
     private void OnTriggerEnter2D(Collider2D other)
     { 
 
         if (other.tag.Equals("SwordPickup"))
         {
+            playerSounds[0].Play();
             hasSword = true;
             animator.SetBool("hasSword", true);
             Destroy(other.gameObject);
