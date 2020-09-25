@@ -2131,6 +2131,7 @@ MonoBehaviour:
   animator: {fileID: 575917772}
   playerSounds:
   - {fileID: 575917778}
+  - {fileID: 575917776}
 --- !u!212 &575917771
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2266,10 +2267,10 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 24300002, guid: 9a6f1fe60738d4b06b61759fb301a0ba,
     type: 2}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: ed00b31304d1b2442a267331bf38790f, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.5
-  m_Pitch: 0.7
+  m_Volume: 0.1
+  m_Pitch: 1
   Loop: 0
   Mute: 0
   Spatialize: 0
@@ -2365,7 +2366,7 @@ AudioSource:
     type: 2}
   m_audioClip: {fileID: 8300000, guid: a10685edde48392439373d527b7d0127, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.2
+  m_Volume: 0.1
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -2462,7 +2463,7 @@ AudioSource:
     type: 2}
   m_audioClip: {fileID: 8300000, guid: f6e5afc890864124ab91a67c0733a4c7, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.2
+  m_Volume: 0.17
   m_Pitch: 0.7
   Loop: 0
   Mute: 0
@@ -2558,8 +2559,8 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: fa0b6e77e3e230c458770c4b89fd2730, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 1
-  m_Pitch: 1
+  m_Volume: 0.1
+  m_Pitch: 0.7
   Loop: 0
   Mute: 0
   Spatialize: 0
@@ -2654,8 +2655,8 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 269c65da26575ec48aedca465b5f2112, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.492
-  m_Pitch: 1
+  m_Volume: 0.2
+  m_Pitch: 0.8
   Loop: 0
   Mute: 0
   Spatialize: 0
