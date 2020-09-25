@@ -28,7 +28,7 @@ public class Healthbar : MonoBehaviour
     {
         if (currHearts <= 0)
         {
-            SceneManager.LoadScene("Main");
+            StartCoroutine(endGame());
         }
     }
 
@@ -47,5 +47,13 @@ public class Healthbar : MonoBehaviour
             }
             yield return new WaitForSeconds(heartToChangeAnimator.GetCurrentAnimatorClipInfo(0).Length);
         }
+    }
+
+    private IEnumerator endGame()
+    {
+
+        yield return new WaitForSeconds(0.75f);
+
+        SceneManager.LoadScene("GameOver");
     }
 }
