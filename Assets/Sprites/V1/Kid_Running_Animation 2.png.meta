@@ -1,0 +1,4532 @@
+fileFormatVersion: 2
+guid: 992e4e4e77e2567428346cdbe1b50105
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7964402022114628791
+    second: Kid_Running_Animation 2_0
+  - first:
+      213: 6174424938811635525
+    second: Kid_Running_Animation 2_1
+  - first:
+      213: -9046059714934574672
+    second: Kid_Running_Animation 2_2
+  - first:
+      213: -1879879099592773236
+    second: Kid_Running_Animation 2_0
+  - first:
+      213: -5875784885775169174
+    second: Kid_Running_Animation 2_1
+  - first:
+      213: -6749744498455709415
+    second: Kid_Running_Animation 2_2
+  - first:
+      213: 744755575297988601
+    second: Kid_Running_Animation 2_3
+  - first:
+      213: 6155103961044066185
+    second: Kid_Running_Animation 2_4
+  - first:
+      213: 1214551707700647410
+    second: Kid_Running_Animation 2_5
+  - first:
+      213: -8853880436513447231
+    second: Kid_Running_Animation 2_6
+  - first:
+      213: -6694521693886085075
+    second: Kid_Running_Animation 2_7
+  - first:
+      213: -8918597462167790038
+    second: Kid_Running_Animation 2_8
+  - first:
+      213: -939417125093722879
+    second: Kid_Running_Animation 2_9
+  - first:
+      213: -7190928293292297767
+    second: Kid_Running_Animation 2_10
+  - first:
+      213: -5523516196788377103
+    second: Kid_Running_Animation 2_11
+  - first:
+      213: 2517449104193288372
+    second: Kid_Running_Animation 2_12
+  - first:
+      213: 2663179858746437741
+    second: Kid_Running_Animation 2_13
+  - first:
+      213: 8603197496316770567
+    second: Kid_Running_Animation 2_14
+  - first:
+      213: 750723634525015606
+    second: Kid_Running_Animation 2_15
+  - first:
+      213: 57804681654234879
+    second: Kid_Running_Animation 2_16
+  - first:
+      213: -8454751266563372459
+    second: Kid_Running_Animation 2_17
+  - first:
+      213: -5303314601642315564
+    second: Kid_Running_Animation 2_18
+  - first:
+      213: -8618393362252703744
+    second: Kid_Running_Animation 2_19
+  - first:
+      213: 5935294125660204231
+    second: Kid_Running_Animation 2_20
+  - first:
+      213: -5221324671064024423
+    second: Kid_Running_Animation 2_21
+  - first:
+      213: -3947231308269798888
+    second: Kid_Running_Animation 2_22
+  - first:
+      213: 7998184496481315143
+    second: Kid_Running_Animation 2_23
+  - first:
+      213: 7410301956803384190
+    second: Kid_Running_Animation 2_24
+  - first:
+      213: -7761649960545856015
+    second: Kid_Running_Animation 2_25
+  - first:
+      213: 4397851645742034393
+    second: Kid_Running_Animation 2_26
+  - first:
+      213: 5393990539618294691
+    second: Kid_Running_Animation 2_27
+  - first:
+      213: 416474948537575274
+    second: Kid_Running_Animation 2_28
+  - first:
+      213: -5975551146660007668
+    second: Kid_Running_Animation 2_29
+  - first:
+      213: 2908110355672923631
+    second: Kid_Running_Animation 2_30
+  - first:
+      213: -7725770652667712986
+    second: Kid_Running_Animation 2_31
+  - first:
+      213: -6920798724132139681
+    second: Kid_Running_Animation 2_32
+  - first:
+      213: -890598392609732011
+    second: Kid_Running_Animation 2_33
+  - first:
+      213: -9134521280277020816
+    second: Kid_Running_Animation 2_34
+  - first:
+      213: -1250905363886677164
+    second: Kid_Running_Animation 2_35
+  - first:
+      213: -6029791141930317247
+    second: Kid_Running_Animation 2_36
+  - first:
+      213: 4315256841730586421
+    second: Kid_Running_Animation 2_37
+  - first:
+      213: 406180011242992230
+    second: Kid_Running_Animation 2_38
+  - first:
+      213: 6976051237143820288
+    second: Kid_Running_Animation 2_39
+  - first:
+      213: -9053942617326616934
+    second: Kid_Running_Animation 2_40
+  - first:
+      213: -6239752512759813995
+    second: Kid_Running_Animation 2_41
+  - first:
+      213: 8489992813593976778
+    second: Kid_Running_Animation 2_42
+  - first:
+      213: 8282632635452426081
+    second: Kid_Running_Animation 2_43
+  - first:
+      213: 5106763255855595421
+    second: Kid_Running_Animation 2_44
+  - first:
+      213: -7479537487452531416
+    second: Kid_Running_Animation 2_45
+  - first:
+      213: 4792153948679581174
+    second: Kid_Running_Animation 2_46
+  - first:
+      213: 5660685906836077133
+    second: Kid_Running_Animation 2_47
+  - first:
+      213: 76416254009669370
+    second: Kid_Running_Animation 2_48
+  - first:
+      213: -131519294843947762
+    second: Kid_Running_Animation 2_49
+  - first:
+      213: -3817352305034835356
+    second: Kid_Running_Animation 2_50
+  - first:
+      213: 2456688464279174792
+    second: Kid_Running_Animation 2_51
+  - first:
+      213: -9007367385103451636
+    second: Kid_Running_Animation 2_52
+  - first:
+      213: 2021138425994743181
+    second: Kid_Running_Animation 2_53
+  - first:
+      213: -6883754035335060027
+    second: Kid_Running_Animation 2_54
+  - first:
+      213: 1266966205712259053
+    second: Kid_Running_Animation 2_55
+  - first:
+      213: 8888936470772633197
+    second: Kid_Running_Animation 2_56
+  - first:
+      213: -1668208755512263831
+    second: Kid_Running_Animation 2_57
+  - first:
+      213: 9142967719811171326
+    second: Kid_Running_Animation 2_58
+  - first:
+      213: -6520665583701016985
+    second: Kid_Running_Animation 2_59
+  - first:
+      213: 2121823721715235408
+    second: Kid_Running_Animation 2_60
+  - first:
+      213: -4725384867365276086
+    second: Kid_Running_Animation 2_61
+  - first:
+      213: 7890125107104037204
+    second: Kid_Running_Animation 2_62
+  - first:
+      213: -4788890868377219516
+    second: Kid_Running_Animation 2_63
+  - first:
+      213: -4955571827672332540
+    second: Kid_Running_Animation 2_64
+  - first:
+      213: -2811542951171435905
+    second: Kid_Running_Animation 2_65
+  - first:
+      213: -2328383526483777375
+    second: Kid_Running_Animation 2_66
+  - first:
+      213: -2148500996408636113
+    second: Kid_Running_Animation 2_67
+  - first:
+      213: 797048745551676431
+    second: Kid_Running_Animation 2_68
+  - first:
+      213: 8343357124740301114
+    second: Kid_Running_Animation 2_69
+  - first:
+      213: -6582002423142891949
+    second: Kid_Running_Animation 2_70
+  - first:
+      213: -817354622861263216
+    second: Kid_Running_Animation 2_71
+  - first:
+      213: -6225208034017482487
+    second: Kid_Running_Animation 2_72
+  - first:
+      213: 4585489816648698195
+    second: Kid_Running_Animation 2_73
+  - first:
+      213: 429528545381337145
+    second: Kid_Running_Animation 2_74
+  - first:
+      213: -9139955337652505647
+    second: Kid_Running_Animation 2_75
+  - first:
+      213: 5795541317612034685
+    second: Kid_Running_Animation 2_76
+  - first:
+      213: 342145696493923280
+    second: Kid_Running_Animation 2_77
+  - first:
+      213: 9095256350122397571
+    second: Kid_Running_Animation 2_78
+  - first:
+      213: -8194835655653896386
+    second: Kid_Running_Animation 2_79
+  - first:
+      213: -5456984748753445509
+    second: Kid_Running_Animation 2_80
+  - first:
+      213: 1493457396904841514
+    second: Kid_Running_Animation 2_81
+  - first:
+      213: -2293552756583667612
+    second: Kid_Running_Animation 2_82
+  - first:
+      213: 3173287427853643016
+    second: Kid_Running_Animation 2_83
+  - first:
+      213: 3895945915168344760
+    second: Kid_Running_Animation 2_84
+  - first:
+      213: -7780907781067095265
+    second: Kid_Running_Animation 2_85
+  - first:
+      213: 8353654663985968382
+    second: Kid_Running_Animation 2_86
+  - first:
+      213: 1356468691472090092
+    second: Kid_Running_Animation 2_87
+  - first:
+      213: 201789377839984865
+    second: Kid_Running_Animation 2_88
+  - first:
+      213: 1464268413002776368
+    second: Kid_Running_Animation 2_89
+  - first:
+      213: 902031519124004917
+    second: Kid_Running_Animation 2_90
+  - first:
+      213: -4393413459812435816
+    second: Kid_Running_Animation 2_91
+  - first:
+      213: -5173591358112406955
+    second: Kid_Running_Animation 2_92
+  - first:
+      213: -5454757913628011077
+    second: Kid_Running_Animation 2_93
+  - first:
+      213: 7756728433784148708
+    second: Kid_Running_Animation 2_94
+  - first:
+      213: -2628808054479672649
+    second: Kid_Running_Animation 2_95
+  - first:
+      213: -3356622543000747304
+    second: Kid_Running_Animation 2_96
+  - first:
+      213: -1850557591111111758
+    second: Kid_Running_Animation 2_97
+  - first:
+      213: -5601186888785376807
+    second: Kid_Running_Animation 2_98
+  - first:
+      213: -4916798608928466394
+    second: Kid_Running_Animation 2_99
+  - first:
+      213: -8426786945959550055
+    second: Kid_Running_Animation 2_100
+  - first:
+      213: 7749933668253135936
+    second: Kid_Running_Animation 2_101
+  - first:
+      213: 8844640906552670123
+    second: Kid_Running_Animation 2_102
+  - first:
+      213: 6662416145388483429
+    second: Kid_Running_Animation 2_103
+  - first:
+      213: -3119491409634979844
+    second: Kid_Running_Animation 2_104
+  - first:
+      213: 3921428305588623581
+    second: Kid_Running_Animation 2_105
+  - first:
+      213: 4929519583927558258
+    second: Kid_Running_Animation 2_106
+  - first:
+      213: -4357193156856996354
+    second: Kid_Running_Animation 2_107
+  - first:
+      213: -7832669648442303100
+    second: Kid_Running_Animation 2_108
+  - first:
+      213: -4848142951522519251
+    second: Kid_Running_Animation 2_109
+  - first:
+      213: 2445543322619312718
+    second: Kid_Running_Animation 2_110
+  - first:
+      213: 132464800696541385
+    second: Kid_Running_Animation 2_111
+  - first:
+      213: -4357688968750713230
+    second: Kid_Running_Animation 2_112
+  - first:
+      213: 4449535426380455933
+    second: Kid_Running_Animation 2_113
+  - first:
+      213: -367260688950042062
+    second: Kid_Running_Animation 2_114
+  - first:
+      213: -2402244381511899231
+    second: Kid_Running_Animation 2_115
+  - first:
+      213: 8128287705420791778
+    second: Kid_Running_Animation 2_116
+  - first:
+      213: -3039168860806901964
+    second: Kid_Running_Animation 2_117
+  - first:
+      213: 746214915903452369
+    second: Kid_Running_Animation 2_118
+  - first:
+      213: 7803058066057732811
+    second: Kid_Running_Animation 2_119
+  - first:
+      213: 1408164198629515373
+    second: Kid_Running_Animation 2_120
+  - first:
+      213: -512421072799911157
+    second: Kid_Running_Animation 2_121
+  - first:
+      213: 1837097513029316388
+    second: Kid_Running_Animation 2_122
+  - first:
+      213: 6093488164920622399
+    second: Kid_Running_Animation 2_123
+  - first:
+      213: 4068497443021896653
+    second: Kid_Running_Animation 2_124
+  - first:
+      213: -5831379892378673831
+    second: Kid_Running_Animation 2_125
+  - first:
+      213: 9055902721297333122
+    second: Kid_Running_Animation 2_126
+  - first:
+      213: 3097672264838404815
+    second: Kid_Running_Animation 2_127
+  - first:
+      213: 8126239774452201966
+    second: Kid_Running_Animation 2_128
+  - first:
+      213: 534176092894714954
+    second: Kid_Running_Animation 2_129
+  - first:
+      213: 1746634321957538753
+    second: Kid_Running_Animation 2_130
+  - first:
+      213: 4685182545374939195
+    second: Kid_Running_Animation 2_131
+  - first:
+      213: -4026081937173406691
+    second: Kid_Running_Animation 2_132
+  - first:
+      213: 5264637038686719992
+    second: Kid_Running_Animation 2_133
+  - first:
+      213: -4636145304023243627
+    second: Kid_Running_Animation 2_134
+  - first:
+      213: 6403713633783002015
+    second: Kid_Running_Animation 2_135
+  - first:
+      213: 280917861818470373
+    second: Kid_Running_Animation 2_136
+  - first:
+      213: 1487893415736403854
+    second: Kid_Running_Animation 2_137
+  - first:
+      213: 2886618243464573852
+    second: Kid_Running_Animation 2_138
+  - first:
+      213: 641958923426202431
+    second: Kid_Running_Animation 2_139
+  - first:
+      213: 5325681281439822629
+    second: Kid_Running_Animation 2_140
+  - first:
+      213: 8750593382435386281
+    second: Kid_Running_Animation 2_141
+  - first:
+      213: 1375066888755879740
+    second: Kid_Running_Animation 2_142
+  - first:
+      213: 8062464096573296742
+    second: Kid_Running_Animation 2_143
+  - first:
+      213: -6828856589868699448
+    second: Kid_Running_Animation 2_144
+  - first:
+      213: -6846656935309936177
+    second: Kid_Running_Animation 2_145
+  - first:
+      213: -2947893207332520461
+    second: Kid_Running_Animation 2_146
+  - first:
+      213: 555383238083736821
+    second: Kid_Running_Animation 2_147
+  - first:
+      213: 7043718757362968310
+    second: Kid_Running_Animation 2_148
+  - first:
+      213: -64547283707942174
+    second: Kid_Running_Animation 2_149
+  - first:
+      213: 5256183654510859034
+    second: Kid_Running_Animation 2_150
+  - first:
+      213: -3034655478197292025
+    second: Kid_Running_Animation 2_151
+  - first:
+      213: -5315979788419804159
+    second: Kid_Running_Animation 2_152
+  - first:
+      213: 562046676798331467
+    second: Kid_Running_Animation 2_153
+  - first:
+      213: -6694872626197080697
+    second: Kid_Running_Animation 2_154
+  - first:
+      213: -6464854107373035151
+    second: Kid_Running_Animation 2_155
+  - first:
+      213: -5399739894162751066
+    second: Kid_Running_Animation 2_156
+  - first:
+      213: -1206380084693362272
+    second: Kid_Running_Animation 2_157
+  - first:
+      213: -7730084087135904850
+    second: Kid_Running_Animation 2_158
+  - first:
+      213: 6374279889493294080
+    second: Kid_Running_Animation 2_159
+  - first:
+      213: -7914394471947924253
+    second: Kid_Running_Animation 2_160
+  - first:
+      213: -1736721127295499831
+    second: Kid_Running_Animation 2_161
+  - first:
+      213: -8517809235625302303
+    second: Kid_Running_Animation 2_162
+  - first:
+      213: -6586635604325145681
+    second: Kid_Running_Animation 2_163
+  - first:
+      213: 981467175594054217
+    second: Kid_Running_Animation 2_164
+  - first:
+      213: 8217256794458420574
+    second: Kid_Running_Animation 2_165
+  - first:
+      213: 1546984957877652259
+    second: Kid_Running_Animation 2_166
+  - first:
+      213: 2501101631963891839
+    second: Kid_Running_Animation 2_167
+  - first:
+      213: -1926877074262062691
+    second: Kid_Running_Animation 2_168
+  - first:
+      213: 3381365330358896166
+    second: Kid_Running_Animation 2_169
+  - first:
+      213: -41240259045962695
+    second: Kid_Running_Animation 2_170
+  - first:
+      213: -3980141317939158078
+    second: Kid_Running_Animation 2_171
+  - first:
+      213: -1992739336546366632
+    second: Kid_Running_Animation 2_172
+  - first:
+      213: 6138120335572617492
+    second: Kid_Running_Animation 2_173
+  - first:
+      213: 491205775134628688
+    second: Kid_Running_Animation 2_174
+  - first:
+      213: -5307167411943346375
+    second: Kid_Running_Animation 2_175
+  - first:
+      213: -3944802522031034629
+    second: Kid_Running_Animation 2_176
+  - first:
+      213: 6097016083032173789
+    second: Kid_Running_Animation 2_177
+  - first:
+      213: -363202925752816240
+    second: Kid_Running_Animation 2_178
+  - first:
+      213: 5664112320497897635
+    second: Kid_Running_Animation 2_179
+  - first:
+      213: 5595728063684591825
+    second: Kid_Running_Animation 2_180
+  - first:
+      213: 4735329753113267753
+    second: Kid_Running_Animation 2_181
+  - first:
+      213: -7401684616221184250
+    second: Kid_Running_Animation 2_182
+  - first:
+      213: 1661744663535905994
+    second: Kid_Running_Animation 2_183
+  - first:
+      213: 85401211343124132
+    second: Kid_Running_Animation 2_184
+  - first:
+      213: 2405298128191376370
+    second: Kid_Running_Animation 2_185
+  - first:
+      213: -6198392213713526721
+    second: Kid_Running_Animation 2_186
+  - first:
+      213: -8589170971368118608
+    second: Kid_Running_Animation 2_187
+  - first:
+      213: 628126300258968603
+    second: Kid_Running_Animation 2_188
+  - first:
+      213: 7926581214458388127
+    second: Kid_Running_Animation 2_189
+  - first:
+      213: -6049397143710191512
+    second: Kid_Running_Animation 2_190
+  - first:
+      213: -3570058922317242600
+    second: Kid_Running_Animation 2_191
+  - first:
+      213: -1769984214850711894
+    second: Kid_Running_Animation 2_192
+  - first:
+      213: 600313944686933790
+    second: Kid_Running_Animation 2_193
+  - first:
+      213: -8620045535123416226
+    second: Kid_Running_Animation 2_194
+  - first:
+      213: -5985955762268225661
+    second: Kid_Running_Animation 2_195
+  - first:
+      213: 162107199485355752
+    second: Kid_Running_Animation 2_196
+  - first:
+      213: 6578293593893516934
+    second: Kid_Running_Animation 2_197
+  - first:
+      213: -8626845901791391903
+    second: Kid_Running_Animation 2_198
+  - first:
+      213: 4840595432642414940
+    second: Kid_Running_Animation 2_199
+  - first:
+      213: -7675475391318503559
+    second: Kid_Running_Animation 2_200
+  - first:
+      213: 7728284850009598478
+    second: Kid_Running_Animation 2_201
+  - first:
+      213: 3036892188109111723
+    second: Kid_Running_Animation 2_202
+  - first:
+      213: -7215457105961278402
+    second: Kid_Running_Animation 2_203
+  - first:
+      213: 4136629560878455989
+    second: Kid_Running_Animation 2_204
+  - first:
+      213: -7251347525554659899
+    second: Kid_Running_Animation 2_205
+  - first:
+      213: 6869499097744514091
+    second: Kid_Running_Animation 2_206
+  - first:
+      213: -1045031801574157214
+    second: Kid_Running_Animation 2_207
+  - first:
+      213: -1268984570122086427
+    second: Kid_Running_Animation 2_208
+  - first:
+      213: 3646005198345463128
+    second: Kid_Running_Animation 2_209
+  - first:
+      213: -5183022448060261308
+    second: Kid_Running_Animation 2_210
+  - first:
+      213: 7393570203315692428
+    second: Kid_Running_Animation 2_211
+  - first:
+      213: 7915478099748239995
+    second: Kid_Running_Animation 2_212
+  - first:
+      213: 6227523384380767711
+    second: Kid_Running_Animation 2_213
+  - first:
+      213: -6731840423618698967
+    second: Kid_Running_Animation 2_214
+  - first:
+      213: -3496167306687752397
+    second: Kid_Running_Animation 2_215
+  - first:
+      213: 789839800922818411
+    second: Kid_Running_Animation 2_216
+  - first:
+      213: -6993443899262557938
+    second: Kid_Running_Animation 2_217
+  - first:
+      213: -3854894909948875352
+    second: Kid_Running_Animation 2_218
+  - first:
+      213: -4523219135916145332
+    second: Kid_Running_Animation 2_219
+  - first:
+      213: 3613517781039678535
+    second: Kid_Running_Animation 2_220
+  - first:
+      213: 8500571829191322743
+    second: Kid_Running_Animation 2_221
+  - first:
+      213: -2924415299762589707
+    second: Kid_Running_Animation 2_222
+  - first:
+      213: 828350011674694158
+    second: Kid_Running_Animation 2_223
+  - first:
+      213: -3531409824934837686
+    second: Kid_Running_Animation 2_224
+  - first:
+      213: -2057803486856620404
+    second: Kid_Running_Animation 2_225
+  - first:
+      213: -5096728544785421648
+    second: Kid_Running_Animation 2_226
+  - first:
+      213: 4787862936718140999
+    second: Kid_Running_Animation 2_227
+  - first:
+      213: 1961528895815910168
+    second: Kid_Running_Animation 2_228
+  - first:
+      213: 1617386745826583576
+    second: Kid_Running_Animation 2_229
+  - first:
+      213: -2962954365998283053
+    second: Kid_Running_Animation 2_230
+  - first:
+      213: -6772480724046192767
+    second: Kid_Running_Animation 2_231
+  - first:
+      213: -8054272240027524051
+    second: Kid_Running_Animation 2_232
+  - first:
+      213: 886724350914573809
+    second: Kid_Running_Animation 2_233
+  - first:
+      213: -7617359054519968249
+    second: Kid_Running_Animation 2_234
+  - first:
+      213: -6728867358057628412
+    second: Kid_Running_Animation 2_235
+  - first:
+      213: 554114680030992998
+    second: Kid_Running_Animation 2_236
+  - first:
+      213: -8856910187390420802
+    second: Kid_Running_Animation 2_237
+  - first:
+      213: -5383082985793039788
+    second: Kid_Running_Animation 2_238
+  - first:
+      213: 5570880530036111923
+    second: Kid_Running_Animation 2_239
+  - first:
+      213: 1256080209273610203
+    second: Kid_Running_Animation 2_240
+  - first:
+      213: 3597463219440604298
+    second: Kid_Running_Animation 2_241
+  - first:
+      213: 5656889623207226537
+    second: Kid_Running_Animation 2_242
+  - first:
+      213: -1753579406108111115
+    second: Kid_Running_Animation 2_243
+  - first:
+      213: -6833674906122445501
+    second: Kid_Running_Animation 2_244
+  - first:
+      213: 6333382355535393728
+    second: Kid_Running_Animation 2_245
+  - first:
+      213: -6450561028474677811
+    second: Kid_Running_Animation 2_246
+  - first:
+      213: -2523180657406350933
+    second: Kid_Running_Animation 2_247
+  - first:
+      213: -2142991612246418769
+    second: Kid_Running_Animation 2_248
+  - first:
+      213: 7813045707599932308
+    second: Kid_Running_Animation 2_249
+  - first:
+      213: 291488716787424643
+    second: Kid_Running_Animation 2_250
+  - first:
+      213: 5706464036057630274
+    second: Kid_Running_Animation 2_251
+  - first:
+      213: -1221797204349436374
+    second: Kid_Running_Animation 2_252
+  - first:
+      213: 4963297010968325890
+    second: Kid_Running_Animation 2_253
+  - first:
+      213: 5817740303852319838
+    second: Kid_Running_Animation 2_254
+  - first:
+      213: 2585605445298607427
+    second: Kid_Running_Animation 2_255
+  - first:
+      213: -5989392341470945059
+    second: Kid_Running_Animation 2_256
+  - first:
+      213: -9068650888994559101
+    second: Kid_Running_Animation 2_257
+  - first:
+      213: 3229079936211232377
+    second: Kid_Running_Animation 2_258
+  - first:
+      213: -3110933100953792418
+    second: Kid_Running_Animation 2_259
+  - first:
+      213: -4435934682574860640
+    second: Kid_Running_Animation 2_260
+  - first:
+      213: -5909948324009146531
+    second: Kid_Running_Animation 2_261
+  - first:
+      213: -1538046564940072743
+    second: Kid_Running_Animation 2_262
+  - first:
+      213: -8397779613625033116
+    second: Kid_Running_Animation 2_263
+  - first:
+      213: -8798467425514193586
+    second: Kid_Running_Animation 2_264
+  - first:
+      213: -2982367452210036905
+    second: Kid_Running_Animation 2_265
+  - first:
+      213: -4805611850869152852
+    second: Kid_Running_Animation 2_266
+  - first:
+      213: 8804407973356304932
+    second: Kid_Running_Animation 2_267
+  - first:
+      213: -351234762837639729
+    second: Kid_Running_Animation 2_268
+  - first:
+      213: 3699036886675868537
+    second: Kid_Running_Animation 2_269
+  - first:
+      213: -713479155228780902
+    second: Kid_Running_Animation 2_270
+  - first:
+      213: 8150642827648892901
+    second: Kid_Running_Animation 2_271
+  - first:
+      213: -8414666565838427937
+    second: Kid_Running_Animation 2_272
+  - first:
+      213: -5253127083197087344
+    second: Kid_Running_Animation 2_273
+  - first:
+      213: -7089257686307731150
+    second: Kid_Running_Animation 2_274
+  - first:
+      213: -6850267950479760733
+    second: Kid_Running_Animation 2_275
+  - first:
+      213: -3302495537679131392
+    second: Kid_Running_Animation 2_276
+  - first:
+      213: -8178771548253055160
+    second: Kid_Running_Animation 2_277
+  - first:
+      213: -7339799275937211353
+    second: Kid_Running_Animation 2_278
+  - first:
+      213: -4528797753820619850
+    second: Kid_Running_Animation 2_279
+  - first:
+      213: -482336083836525434
+    second: Kid_Running_Animation 2_280
+  - first:
+      213: -6934162403150592981
+    second: Kid_Running_Animation 2_281
+  - first:
+      213: 4362214018907568345
+    second: Kid_Running_Animation 2_282
+  - first:
+      213: -3822941857488748388
+    second: Kid_Running_Animation 2_283
+  - first:
+      213: -1731730882419275292
+    second: Kid_Running_Animation 2_284
+  - first:
+      213: -6396668698855742700
+    second: Kid_Running_Animation 2_285
+  - first:
+      213: 5816401710034770088
+    second: Kid_Running_Animation 2_286
+  - first:
+      213: 7431265123330487254
+    second: Kid_Running_Animation 2_287
+  - first:
+      213: -7864344861297608298
+    second: Kid_Running_Animation 2_288
+  - first:
+      213: -9055501611960904648
+    second: Kid_Running_Animation 2_289
+  - first:
+      213: 1819861839000686726
+    second: Kid_Running_Animation 2_290
+  - first:
+      213: -4594392627050854434
+    second: Kid_Running_Animation 2_291
+  - first:
+      213: 2911245708121979877
+    second: Kid_Running_Animation 2_292
+  - first:
+      213: -8077071387505905308
+    second: Kid_Running_Animation 2_293
+  - first:
+      213: -1526895725032722944
+    second: Kid_Running_Animation 2_294
+  - first:
+      213: 598386601581578126
+    second: Kid_Running_Animation 2_295
+  - first:
+      213: 6794133966422828456
+    second: Kid_Running_Animation 2_296
+  - first:
+      213: -4758867635395448745
+    second: Kid_Running_Animation 2_297
+  - first:
+      213: -3153717836220506623
+    second: Kid_Running_Animation 2_298
+  - first:
+      213: 7173911065484225220
+    second: Kid_Running_Animation 2_299
+  - first:
+      213: -8061221692116005498
+    second: Kid_Running_Animation 2_300
+  - first:
+      213: 4969894329525615801
+    second: Kid_Running_Animation 2_301
+  - first:
+      213: 1557641875977657783
+    second: Kid_Running_Animation 2_302
+  - first:
+      213: -4892898627247782492
+    second: Kid_Running_Animation 2_303
+  - first:
+      213: 582839754193047355
+    second: Kid_Running_Animation 2_304
+  - first:
+      213: -5199248725040980895
+    second: Kid_Running_Animation 2_305
+  - first:
+      213: -7282058775646410611
+    second: Kid_Running_Animation 2_306
+  - first:
+      213: -911151020143436653
+    second: Kid_Running_Animation 2_307
+  - first:
+      213: -5815497451696429835
+    second: Kid_Running_Animation 2_308
+  - first:
+      213: 9115099630811033232
+    second: Kid_Running_Animation 2_309
+  - first:
+      213: 1100790872707093947
+    second: Kid_Running_Animation 2_310
+  - first:
+      213: 5701873099806127838
+    second: Kid_Running_Animation 2_311
+  - first:
+      213: -1245235887710363126
+    second: Kid_Running_Animation 2_312
+  - first:
+      213: 7788361412227855858
+    second: Kid_Running_Animation 2_313
+  - first:
+      213: -1742236623628143848
+    second: Kid_Running_Animation 2_314
+  - first:
+      213: -3800217996720078290
+    second: Kid_Running_Animation 2_315
+  - first:
+      213: -3377929882609434441
+    second: Kid_Running_Animation 2_316
+  - first:
+      213: -6936015381582424438
+    second: Kid_Running_Animation 2_317
+  - first:
+      213: -6562037904478382494
+    second: Kid_Running_Animation 2_318
+  - first:
+      213: 3316807324622638793
+    second: Kid_Running_Animation 2_319
+  - first:
+      213: 2288748341599159283
+    second: Kid_Running_Animation 2_320
+  - first:
+      213: -4316820423077591163
+    second: Kid_Running_Animation 2_321
+  - first:
+      213: -8289764223812054157
+    second: Kid_Running_Animation 2_322
+  - first:
+      213: 3597799580789281262
+    second: Kid_Running_Animation 2_323
+  - first:
+      213: -626599014122076336
+    second: Kid_Running_Animation 2_324
+  - first:
+      213: -7361909962779009131
+    second: Kid_Running_Animation 2_325
+  - first:
+      213: -5576121700969740718
+    second: Kid_Running_Animation 2_326
+  - first:
+      213: 8733132126826831104
+    second: Kid_Running_Animation 2_327
+  - first:
+      213: 2231832640110780134
+    second: Kid_Running_Animation 2_328
+  - first:
+      213: -8344830490747202721
+    second: Kid_Running_Animation 2_329
+  - first:
+      213: -948769301774388770
+    second: Kid_Running_Animation 2_330
+  - first:
+      213: 7798765748924729288
+    second: Kid_Running_Animation 2_331
+  - first:
+      213: -8713151636168428896
+    second: Kid_Running_Animation 2_332
+  - first:
+      213: 6541520803794074437
+    second: Kid_Running_Animation 2_333
+  - first:
+      213: -4902735229245013911
+    second: Kid_Running_Animation 2_334
+  - first:
+      213: 9001865504736792161
+    second: Kid_Running_Animation 2_335
+  - first:
+      213: -7093924263757221799
+    second: Kid_Running_Animation 2_336
+  - first:
+      213: -3005774597197783225
+    second: Kid_Running_Animation 2_337
+  - first:
+      213: 9154224774736340345
+    second: Kid_Running_Animation 2_338
+  - first:
+      213: -1315471229082496275
+    second: Kid_Running_Animation 2_339
+  - first:
+      213: -3350599396716057718
+    second: Kid_Running_Animation 2_340
+  - first:
+      213: 1823930989895714394
+    second: Kid_Running_Animation 2_341
+  - first:
+      213: 7135995269423804460
+    second: Kid_Running_Animation 2_342
+  - first:
+      213: 2462083592777419987
+    second: Kid_Running_Animation 2_343
+  - first:
+      213: -2900798906935326275
+    second: Kid_Running_Animation 2_344
+  - first:
+      213: -1493069999298532277
+    second: Kid_Running_Animation 2_345
+  - first:
+      213: -5940978669754161855
+    second: Kid_Running_Animation 2_346
+  - first:
+      213: 2812170631623151964
+    second: Kid_Running_Animation 2_347
+  - first:
+      213: 4813806270834850819
+    second: Kid_Running_Animation 2_348
+  - first:
+      213: 8511835114042002180
+    second: Kid_Running_Animation 2_349
+  - first:
+      213: 1871860160531752433
+    second: Kid_Running_Animation 2_350
+  - first:
+      213: 8879445581830031074
+    second: Kid_Running_Animation 2_351
+  - first:
+      213: -1294532074045055594
+    second: Kid_Running_Animation 2_352
+  - first:
+      213: -5711944801797406772
+    second: Kid_Running_Animation 2_353
+  - first:
+      213: -3204182296648889985
+    second: Kid_Running_Animation 2_354
+  - first:
+      213: 2006866114954108949
+    second: Kid_Running_Animation 2_355
+  - first:
+      213: -4332486369854230418
+    second: Kid_Running_Animation 2_356
+  - first:
+      213: 7733265368396758601
+    second: Kid_Running_Animation 2_357
+  - first:
+      213: 1790120700528060593
+    second: Kid_Running_Animation 2_358
+  - first:
+      213: -2151346760853598280
+    second: Kid_Running_Animation 2_359
+  - first:
+      213: -4203782988943140772
+    second: Kid_Running_Animation 2_360
+  - first:
+      213: -1637953268363146843
+    second: Kid_Running_Animation 2_361
+  - first:
+      213: 7598407615992518775
+    second: Kid_Running_Animation 2_362
+  - first:
+      213: -2864835890787308650
+    second: Kid_Running_Animation 2_363
+  - first:
+      213: 6724378302081684180
+    second: Kid_Running_Animation 2_364
+  - first:
+      213: -5077436796314456141
+    second: Kid_Running_Animation 2_365
+  - first:
+      213: 4595155649250847731
+    second: Kid_Running_Animation 2_366
+  - first:
+      213: 3313453015949277473
+    second: Kid_Running_Animation 2_367
+  - first:
+      213: 59529860123356160
+    second: Kid_Running_Animation 2_368
+  - first:
+      213: 161122659627291467
+    second: Kid_Running_Animation 2_369
+  - first:
+      213: -1107061024205852659
+    second: Kid_Running_Animation 2_370
+  - first:
+      213: 5583737408359135300
+    second: Kid_Running_Animation 2_371
+  - first:
+      213: -195492498766993676
+    second: Kid_Running_Animation 2_372
+  - first:
+      213: -6361288955399286284
+    second: Kid_Running_Animation 2_373
+  - first:
+      213: -783067298154966091
+    second: Kid_Running_Animation 2_374
+  - first:
+      213: 1980591274905478025
+    second: Kid_Running_Animation 2_375
+  - first:
+      213: -2342461480933485496
+    second: Kid_Running_Animation 2_376
+  - first:
+      213: 3203075557708944081
+    second: Kid_Running_Animation 2_377
+  - first:
+      213: 6007656757777580916
+    second: Kid_Running_Animation 2_378
+  - first:
+      213: 7758510465599356361
+    second: Kid_Running_Animation 2_379
+  - first:
+      213: -6000677162879093594
+    second: Kid_Running_Animation 2_380
+  - first:
+      213: 5079146247302312199
+    second: Kid_Running_Animation 2_381
+  - first:
+      213: -6038773845740181922
+    second: Kid_Running_Animation 2_382
+  - first:
+      213: 5449923118285228057
+    second: Kid_Running_Animation 2_383
+  - first:
+      213: -8015542509877025424
+    second: Kid_Running_Animation 2_384
+  - first:
+      213: 3801060034928307784
+    second: Kid_Running_Animation 2_385
+  - first:
+      213: -5282051531719989425
+    second: Kid_Running_Animation 2_386
+  - first:
+      213: -3708117528994673345
+    second: Kid_Running_Animation 2_387
+  - first:
+      213: 2451479630134454165
+    second: Kid_Running_Animation 2_388
+  - first:
+      213: -8725958295893869019
+    second: Kid_Running_Animation 2_389
+  - first:
+      213: 2834153875590901588
+    second: Kid_Running_Animation 2_390
+  - first:
+      213: -8651611842607803499
+    second: Kid_Running_Animation 2_391
+  - first:
+      213: -3734679164012335858
+    second: Kid_Running_Animation 2_392
+  - first:
+      213: 5809751801218529274
+    second: Kid_Running_Animation 2_393
+  - first:
+      213: -2329854653923774082
+    second: Kid_Running_Animation 2_394
+  - first:
+      213: -755486434035347459
+    second: Kid_Running_Animation 2_395
+  - first:
+      213: 7858772449454232468
+    second: Kid_Running_Animation 2_396
+  - first:
+      213: -8511155682528902369
+    second: Kid_Running_Animation 2_397
+  - first:
+      213: 7013309756762538580
+    second: Kid_Running_Animation 2_398
+  - first:
+      213: -6239782502955359712
+    second: Kid_Running_Animation 2_399
+  - first:
+      213: -6960393353363657949
+    second: Kid_Running_Animation 2_400
+  - first:
+      213: -3640506816133322677
+    second: Kid_Running_Animation 2_401
+  - first:
+      213: 6296211387074341447
+    second: Kid_Running_Animation 2_402
+  - first:
+      213: -6501640615689643003
+    second: Kid_Running_Animation 2_403
+  - first:
+      213: 7170467536087962168
+    second: Kid_Running_Animation 2_404
+  - first:
+      213: 6038930857725954659
+    second: Kid_Running_Animation 2_405
+  - first:
+      213: 8364722980502928637
+    second: Kid_Running_Animation 2_406
+  - first:
+      213: 2351147982814682541
+    second: Kid_Running_Animation 2_407
+  - first:
+      213: 2645051439761002579
+    second: Kid_Running_Animation 2_408
+  - first:
+      213: -5025680195634800870
+    second: Kid_Running_Animation 2_409
+  - first:
+      213: -6055942784810810038
+    second: Kid_Running_Animation 2_410
+  - first:
+      213: 5200191116976185997
+    second: Kid_Running_Animation 2_411
+  - first:
+      213: 3440884846175556108
+    second: Kid_Running_Animation 2_412
+  - first:
+      213: -7566663541069770704
+    second: Kid_Running_Animation 2_413
+  - first:
+      213: -3964744485180125679
+    second: Kid_Running_Animation 2_414
+  - first:
+      213: 4809381280091764383
+    second: Kid_Running_Animation 2_415
+  - first:
+      213: 1150407700527743720
+    second: Kid_Running_Animation 2_416
+  - first:
+      213: -7801206109733321520
+    second: Kid_Running_Animation 2_417
+  - first:
+      213: 3271947497034883813
+    second: Kid_Running_Animation 2_418
+  - first:
+      213: -7198254026560206438
+    second: Kid_Running_Animation 2_419
+  - first:
+      213: -2650671475874892678
+    second: Kid_Running_Animation 2_420
+  - first:
+      213: -2374808698588485845
+    second: Kid_Running_Animation 2_421
+  - first:
+      213: -255758525585941691
+    second: Kid_Running_Animation 2_422
+  - first:
+      213: -1469357027753504024
+    second: Kid_Running_Animation 2_423
+  - first:
+      213: -1538077949480343737
+    second: Kid_Running_Animation 2_424
+  - first:
+      213: -379085925074227585
+    second: Kid_Running_Animation 2_425
+  - first:
+      213: -7431468418792178345
+    second: Kid_Running_Animation 2_426
+  - first:
+      213: 5338889303740658925
+    second: Kid_Running_Animation 2_427
+  - first:
+      213: -6750029617847509145
+    second: Kid_Running_Animation 2_428
+  - first:
+      213: -2227729985674486072
+    second: Kid_Running_Animation 2_429
+  - first:
+      213: -6708384483920868347
+    second: Kid_Running_Animation 2_430
+  - first:
+      213: -2090879614322063857
+    second: Kid_Running_Animation 2_431
+  - first:
+      213: 3387279142301756255
+    second: Kid_Running_Animation 2_432
+  - first:
+      213: 4555948294178643153
+    second: Kid_Running_Animation 2_433
+  - first:
+      213: 1127445173702921020
+    second: Kid_Running_Animation 2_434
+  - first:
+      213: 749660363923864752
+    second: Kid_Running_Animation 2_435
+  - first:
+      213: 4055049398518955708
+    second: Kid_Running_Animation 2_436
+  - first:
+      213: 1953503929478428922
+    second: Kid_Running_Animation 2_437
+  - first:
+      213: -4320968248181387000
+    second: Kid_Running_Animation 2_438
+  - first:
+      213: 7220868392622550610
+    second: Kid_Running_Animation 2_439
+  - first:
+      213: -7642646099960979153
+    second: Kid_Running_Animation 2_440
+  - first:
+      213: 3915606349009240435
+    second: Kid_Running_Animation 2_441
+  - first:
+      213: -8188227559685827661
+    second: Kid_Running_Animation 2_442
+  - first:
+      213: 8091263663731528624
+    second: Kid_Running_Animation 2_443
+  - first:
+      213: -6831664728649048045
+    second: Kid_Running_Animation 2_444
+  - first:
+      213: -2602257893374624570
+    second: Kid_Running_Animation 2_445
+  - first:
+      213: -2714801131059577235
+    second: Kid_Running_Animation 2_446
+  - first:
+      213: -2979075786050675364
+    second: Kid_Running_Animation 2_447
+  - first:
+      213: 8987937526430789377
+    second: Kid_Running_Animation 2_448
+  - first:
+      213: 125513631970215324
+    second: Kid_Running_Animation 2_449
+  - first:
+      213: -1769418818096493859
+    second: Kid_Running_Animation 2_450
+  - first:
+      213: 2505600278216799985
+    second: Kid_Running_Animation 2_451
+  - first:
+      213: 8771083745596637850
+    second: Kid_Running_Animation 2_452
+  - first:
+      213: -2144667403910312515
+    second: Kid_Running_Animation 2_453
+  - first:
+      213: 4674238187166395925
+    second: Kid_Running_Animation 2_454
+  - first:
+      213: 5278320051921543016
+    second: Kid_Running_Animation 2_455
+  - first:
+      213: 6338865926445953041
+    second: Kid_Running_Animation 2_456
+  - first:
+      213: -8982016136373031578
+    second: Kid_Running_Animation 2_457
+  - first:
+      213: 6047607649588922029
+    second: Kid_Running_Animation 2_458
+  - first:
+      213: 5918257491887438044
+    second: Kid_Running_Animation 2_459
+  - first:
+      213: 1397736694114042098
+    second: Kid_Running_Animation 2_460
+  - first:
+      213: 5885562440248659898
+    second: Kid_Running_Animation 2_461
+  - first:
+      213: 5124036413208414604
+    second: Kid_Running_Animation 2_462
+  - first:
+      213: -1787063578187036856
+    second: Kid_Running_Animation 2_463
+  - first:
+      213: -8506191791935442378
+    second: Kid_Running_Animation 2_464
+  - first:
+      213: -6397942309759059927
+    second: Kid_Running_Animation 2_465
+  - first:
+      213: -9176411315648974650
+    second: Kid_Running_Animation 2_466
+  - first:
+      213: 4863148289409084495
+    second: Kid_Running_Animation 2_467
+  - first:
+      213: 7014411492765237441
+    second: Kid_Running_Animation 2_468
+  - first:
+      213: 2949229274550456352
+    second: Kid_Running_Animation 2_469
+  - first:
+      213: -6479388995005622030
+    second: Kid_Running_Animation 2_470
+  - first:
+      213: -8385112976540759600
+    second: Kid_Running_Animation 2_471
+  - first:
+      213: 6858259344349787320
+    second: Kid_Running_Animation 2_472
+  - first:
+      213: 7601342455815809908
+    second: Kid_Running_Animation 2_473
+  - first:
+      213: 6469573408446263083
+    second: Kid_Running_Animation 2_474
+  - first:
+      213: -6722512877235476495
+    second: Kid_Running_Animation 2_475
+  - first:
+      213: 4725781141021120673
+    second: Kid_Running_Animation 2_476
+  - first:
+      213: -2785248656318833668
+    second: Kid_Running_Animation 2_477
+  - first:
+      213: -2452077631719636877
+    second: Kid_Running_Animation 2_478
+  - first:
+      213: 4029801598909313414
+    second: Kid_Running_Animation 2_479
+  - first:
+      213: -1346824452933414434
+    second: Kid_Running_Animation 2_480
+  - first:
+      213: -3226412416460548711
+    second: Kid_Running_Animation 2_481
+  - first:
+      213: 9109418949804198860
+    second: Kid_Running_Animation 2_482
+  - first:
+      213: -6593736090240600911
+    second: Kid_Running_Animation 2_483
+  - first:
+      213: 8702124993932432895
+    second: Kid_Running_Animation 2_484
+  - first:
+      213: -5915324184267268461
+    second: Kid_Running_Animation 2_485
+  - first:
+      213: 1047912481269567892
+    second: Kid_Running_Animation 2_486
+  - first:
+      213: 2059781115915172491
+    second: Kid_Running_Animation 2_487
+  - first:
+      213: 8261979798629202520
+    second: Kid_Running_Animation 2_488
+  - first:
+      213: 4833175496301698616
+    second: Kid_Running_Animation 2_489
+  - first:
+      213: 8682820963568512433
+    second: Kid_Running_Animation 2_490
+  - first:
+      213: -4128515262604269641
+    second: Kid_Running_Animation 2_491
+  - first:
+      213: 5586055782192551192
+    second: Kid_Running_Animation 2_492
+  - first:
+      213: -2262111175538505873
+    second: Kid_Running_Animation 2_493
+  - first:
+      213: 7831879433321827852
+    second: Kid_Running_Animation 2_494
+  - first:
+      213: -5492074419743950485
+    second: Kid_Running_Animation 2_495
+  - first:
+      213: 4740443347425430981
+    second: Kid_Running_Animation 2_496
+  - first:
+      213: 5243514004383294947
+    second: Kid_Running_Animation 2_497
+  - first:
+      213: -2463105571050686973
+    second: Kid_Running_Animation 2_498
+  - first:
+      213: 5172133989557077610
+    second: Kid_Running_Animation 2_499
+  - first:
+      213: 5213430976138926471
+    second: Kid_Running_Animation 2_500
+  - first:
+      213: 5071729008234994647
+    second: Kid_Running_Animation 2_501
+  - first:
+      213: -690440934485179109
+    second: Kid_Running_Animation 2_502
+  - first:
+      213: 2191268752121659450
+    second: Kid_Running_Animation 2_503
+  - first:
+      213: -8970993040074434268
+    second: Kid_Running_Animation 2_504
+  - first:
+      213: -9057935895553162240
+    second: Kid_Running_Animation 2_505
+  - first:
+      213: 3984439993724546088
+    second: Kid_Running_Animation 2_506
+  - first:
+      213: -5321448153655754962
+    second: Kid_Running_Animation 2_507
+  - first:
+      213: -3640764659343576210
+    second: Kid_Running_Animation 2_508
+  - first:
+      213: -7874759269990848040
+    second: Kid_Running_Animation 2_509
+  - first:
+      213: -5455763007239295114
+    second: Kid_Running_Animation 2_510
+  - first:
+      213: -275679939295152763
+    second: Kid_Running_Animation 2_511
+  - first:
+      213: 4588267243924492662
+    second: Kid_Running_Animation 2_512
+  - first:
+      213: -4168469826192463870
+    second: Kid_Running_Animation 2_513
+  - first:
+      213: -7826770545728308383
+    second: Kid_Running_Animation 2_514
+  - first:
+      213: -5366175457685908132
+    second: Kid_Running_Animation 2_515
+  - first:
+      213: -5272644772695017274
+    second: Kid_Running_Animation 2_516
+  - first:
+      213: 3083952377512298733
+    second: Kid_Running_Animation 2_517
+  - first:
+      213: 6725057400594234100
+    second: Kid_Running_Animation 2_518
+  - first:
+      213: 3422449769721396450
+    second: Kid_Running_Animation 2_519
+  - first:
+      213: 8253944617774977143
+    second: Kid_Running_Animation 2_520
+  - first:
+      213: -4570284106379704044
+    second: Kid_Running_Animation 2_521
+  - first:
+      213: -4000283839734094364
+    second: Kid_Running_Animation 2_522
+  - first:
+      213: 4251662469645665198
+    second: Kid_Running_Animation 2_523
+  - first:
+      213: 5394415917758920488
+    second: Kid_Running_Animation 2_524
+  - first:
+      213: 3122269496881342976
+    second: Kid_Running_Animation 2_525
+  - first:
+      213: -2121202758786887149
+    second: Kid_Running_Animation 2_526
+  - first:
+      213: -1228508244214689873
+    second: Kid_Running_Animation 2_527
+  - first:
+      213: 7902892117304158977
+    second: Kid_Running_Animation 2_528
+  - first:
+      213: -2928203309467548513
+    second: Kid_Running_Animation 2_529
+  - first:
+      213: -8752759697694642218
+    second: Kid_Running_Animation 2_530
+  - first:
+      213: -2995603447784066599
+    second: Kid_Running_Animation 2_531
+  - first:
+      213: -7001276643125476949
+    second: Kid_Running_Animation 2_532
+  - first:
+      213: 8554100211949162538
+    second: Kid_Running_Animation 2_533
+  - first:
+      213: 6305849915187031315
+    second: Kid_Running_Animation 2_534
+  - first:
+      213: -8111440449492899772
+    second: Kid_Running_Animation 2_535
+  - first:
+      213: 310406892250456884
+    second: Kid_Running_Animation 2_536
+  - first:
+      213: -773601193295213363
+    second: Kid_Running_Animation 2_537
+  - first:
+      213: 5023122053656395780
+    second: Kid_Running_Animation 2_538
+  - first:
+      213: 1337705811453440636
+    second: Kid_Running_Animation 2_539
+  - first:
+      213: 8156743108712229567
+    second: Kid_Running_Animation 2_540
+  - first:
+      213: -8548829007385563634
+    second: Kid_Running_Animation 2_541
+  - first:
+      213: 627103360109055457
+    second: Kid_Running_Animation 2_542
+  - first:
+      213: -3375721125184746454
+    second: Kid_Running_Animation 2_543
+  - first:
+      213: -8515367679367379433
+    second: Kid_Running_Animation 2_544
+  - first:
+      213: -3349403753507636632
+    second: Kid_Running_Animation 2_545
+  - first:
+      213: -8270442589543523773
+    second: Kid_Running_Animation 2_546
+  - first:
+      213: -6805266549669578350
+    second: Kid_Running_Animation 2_547
+  - first:
+      213: -250488082809195252
+    second: Kid_Running_Animation 2_548
+  - first:
+      213: -5248065895415589959
+    second: Kid_Running_Animation 2_549
+  - first:
+      213: 1111640219295477233
+    second: Kid_Running_Animation 2_550
+  - first:
+      213: 754719430352960690
+    second: Kid_Running_Animation 2_551
+  - first:
+      213: -1654906637917193782
+    second: Kid_Running_Animation 2_552
+  - first:
+      213: -7726074068955271564
+    second: Kid_Running_Animation 2_553
+  - first:
+      213: 1760360206310647818
+    second: Kid_Running_Animation 2_554
+  - first:
+      213: -8315816707347376312
+    second: Kid_Running_Animation 2_555
+  - first:
+      213: -5258233320456862615
+    second: Kid_Running_Animation 2_556
+  - first:
+      213: 3486459895729967070
+    second: Kid_Running_Animation 2_557
+  - first:
+      213: 2836272823966209232
+    second: Kid_Running_Animation 2_558
+  - first:
+      213: -6835486952584771561
+    second: Kid_Running_Animation 2_559
+  - first:
+      213: 3373637751001392013
+    second: Kid_Running_Animation 2_560
+  - first:
+      213: -7480536677846636811
+    second: Kid_Running_Animation 2_561
+  - first:
+      213: -4977057147363635279
+    second: Kid_Running_Animation 2_562
+  - first:
+      213: 4696875105592162510
+    second: Kid_Running_Animation 2_563
+  - first:
+      213: 2809581092715418151
+    second: Kid_Running_Animation 2_564
+  - first:
+      213: 2535810327032325510
+    second: Kid_Running_Animation 2_565
+  - first:
+      213: -1154338911604403411
+    second: Kid_Running_Animation 2_566
+  - first:
+      213: 310552973004910041
+    second: Kid_Running_Animation 2_567
+  - first:
+      213: 1099419906611214564
+    second: Kid_Running_Animation 2_568
+  - first:
+      213: -5594523235244978222
+    second: Kid_Running_Animation 2_569
+  - first:
+      213: -2500721891300123636
+    second: Kid_Running_Animation 2_570
+  - first:
+      213: -3935633885621756200
+    second: Kid_Running_Animation 2_571
+  - first:
+      213: 3063217331628852176
+    second: Kid_Running_Animation 2_572
+  - first:
+      213: 7441504413591014303
+    second: Kid_Running_Animation 2_573
+  - first:
+      213: -8454067834732218297
+    second: Kid_Running_Animation 2_574
+  - first:
+      213: 4492275042286404636
+    second: Kid_Running_Animation 2_575
+  - first:
+      213: -662816631001975122
+    second: Kid_Running_Animation 2_576
+  - first:
+      213: -4840022987968764855
+    second: Kid_Running_Animation 2_577
+  - first:
+      213: 8222579315032603309
+    second: Kid_Running_Animation 2_578
+  - first:
+      213: -5633836074465233285
+    second: Kid_Running_Animation 2_579
+  - first:
+      213: -7650851445706434451
+    second: Kid_Running_Animation 2_580
+  - first:
+      213: 2135761409558272623
+    second: Kid_Running_Animation 2_581
+  - first:
+      213: 2848241746024498274
+    second: Kid_Running_Animation 2_582
+  - first:
+      213: -6549615387500086039
+    second: Kid_Running_Animation 2_583
+  - first:
+      213: -2817555519356750633
+    second: Kid_Running_Animation 2_584
+  - first:
+      213: 359714165195235183
+    second: Kid_Running_Animation 2_585
+  - first:
+      213: 4089348860556487325
+    second: Kid_Running_Animation 2_586
+  - first:
+      213: -3620742518771459176
+    second: Kid_Running_Animation 2_587
+  - first:
+      213: -582457607979286968
+    second: Kid_Running_Animation 2_588
+  - first:
+      213: -2743480153392341028
+    second: Kid_Running_Animation 2_589
+  - first:
+      213: -3824056335436911456
+    second: Kid_Running_Animation 2_590
+  - first:
+      213: 1604517531519483967
+    second: Kid_Running_Animation 2_591
+  - first:
+      213: 8272279093124714406
+    second: Kid_Running_Animation 2_592
+  - first:
+      213: -8876896873948081251
+    second: Kid_Running_Animation 2_593
+  - first:
+      213: 8732466943213628770
+    second: Kid_Running_Animation 2_594
+  - first:
+      213: -2979759894800134416
+    second: Kid_Running_Animation 2_595
+  - first:
+      213: -5869662668297440065
+    second: Kid_Running_Animation 2_596
+  - first:
+      213: 1549485131035114681
+    second: Kid_Running_Animation 2_597
+  - first:
+      213: -7868330341044946336
+    second: Kid_Running_Animation 2_598
+  - first:
+      213: 8700409923389107714
+    second: Kid_Running_Animation 2_599
+  - first:
+      213: -9167733292630070230
+    second: Kid_Running_Animation 2_600
+  - first:
+      213: -3942108584449483645
+    second: Kid_Running_Animation 2_601
+  - first:
+      213: -1197789776751883163
+    second: Kid_Running_Animation 2_602
+  - first:
+      213: 4610343442265922982
+    second: Kid_Running_Animation 2_603
+  - first:
+      213: 4644683258317616215
+    second: Kid_Running_Animation 2_604
+  - first:
+      213: -4283944501328503638
+    second: Kid_Running_Animation 2_605
+  - first:
+      213: 2376652240430060193
+    second: Kid_Running_Animation 2_606
+  - first:
+      213: 1825467973268292206
+    second: Kid_Running_Animation 2_607
+  - first:
+      213: -7152240627629253223
+    second: Kid_Running_Animation 2_608
+  - first:
+      213: -1134148492193070002
+    second: Kid_Running_Animation 2_609
+  - first:
+      213: 1219192357089871284
+    second: Kid_Running_Animation 2_610
+  - first:
+      213: -8027960770942094004
+    second: Kid_Running_Animation 2_611
+  - first:
+      213: -6054345814485876413
+    second: Kid_Running_Animation 2_612
+  - first:
+      213: 5269501572573505481
+    second: Kid_Running_Animation 2_613
+  - first:
+      213: -7609335926676503072
+    second: Kid_Running_Animation 2_614
+  - first:
+      213: -8604779621153506658
+    second: Kid_Running_Animation 2_615
+  - first:
+      213: -1780611740289924997
+    second: Kid_Running_Animation 2_616
+  - first:
+      213: -6398358521222135010
+    second: Kid_Running_Animation 2_617
+  - first:
+      213: 7495361456083431180
+    second: Kid_Running_Animation 2_618
+  - first:
+      213: -2048479721754765500
+    second: Kid_Running_Animation 2_619
+  - first:
+      213: 1901855510548564223
+    second: Kid_Running_Animation 2_620
+  - first:
+      213: -2975812744695146077
+    second: Kid_Running_Animation 2_621
+  - first:
+      213: 4059555305247615686
+    second: Kid_Running_Animation 2_622
+  - first:
+      213: 5709370966812257726
+    second: Kid_Running_Animation 2_623
+  - first:
+      213: -7320763994211980950
+    second: Kid_Running_Animation 2_624
+  - first:
+      213: 6703004817616801547
+    second: Kid_Running_Animation 2_625
+  - first:
+      213: -4469474229840350415
+    second: Kid_Running_Animation 2_626
+  - first:
+      213: 1352652308521037976
+    second: Kid_Running_Animation 2_627
+  - first:
+      213: -8858622087878563719
+    second: Kid_Running_Animation 2_628
+  - first:
+      213: 6059486869862887230
+    second: Kid_Running_Animation 2_629
+  - first:
+      213: -5841414901199436562
+    second: Kid_Running_Animation 2_630
+  - first:
+      213: -3943066693202039458
+    second: Kid_Running_Animation 2_631
+  - first:
+      213: 1054730488361844350
+    second: Kid_Running_Animation 2_632
+  - first:
+      213: -1273056127264101718
+    second: Kid_Running_Animation 2_633
+  - first:
+      213: -3640994987201773830
+    second: Kid_Running_Animation 2_634
+  - first:
+      213: -8925052729110229352
+    second: Kid_Running_Animation 2_635
+  - first:
+      213: -8364063210151119688
+    second: Kid_Running_Animation 2_636
+  - first:
+      213: 1807963867911068903
+    second: Kid_Running_Animation 2_637
+  - first:
+      213: -879957975682200298
+    second: Kid_Running_Animation 2_638
+  - first:
+      213: 5181149844904409016
+    second: Kid_Running_Animation 2_639
+  - first:
+      213: -5159674226574999439
+    second: Kid_Running_Animation 2_640
+  - first:
+      213: 6177265698277170044
+    second: Kid_Running_Animation 2_641
+  - first:
+      213: 7112152474554659554
+    second: Kid_Running_Animation 2_642
+  - first:
+      213: -2137508514179674441
+    second: Kid_Running_Animation 2_643
+  - first:
+      213: -2988908320456787858
+    second: Kid_Running_Animation 2_644
+  - first:
+      213: -3995529313876396468
+    second: Kid_Running_Animation 2_645
+  - first:
+      213: -7307052739073239661
+    second: Kid_Running_Animation 2_646
+  - first:
+      213: 2822415954635633244
+    second: Kid_Running_Animation 2_647
+  - first:
+      213: -7088111001215453121
+    second: Kid_Running_Animation 2_648
+  - first:
+      213: -2091910974644709139
+    second: Kid_Running_Animation 2_649
+  - first:
+      213: -8361478880990036464
+    second: Kid_Running_Animation 2_650
+  - first:
+      213: -1044504447693208005
+    second: Kid_Running_Animation 2_651
+  - first:
+      213: -516956552216378172
+    second: Kid_Running_Animation 2_652
+  - first:
+      213: -3149111597344602179
+    second: Kid_Running_Animation 2_653
+  - first:
+      213: 4092071771753024271
+    second: Kid_Running_Animation 2_654
+  - first:
+      213: -800220497700627704
+    second: Kid_Running_Animation 2_655
+  - first:
+      213: 3541010841421501263
+    second: Kid_Running_Animation 2_656
+  - first:
+      213: -3599289360050841074
+    second: Kid_Running_Animation 2_657
+  - first:
+      213: -260462455437201821
+    second: Kid_Running_Animation 2_658
+  - first:
+      213: 7278768141841757639
+    second: Kid_Running_Animation 2_659
+  - first:
+      213: 3059844751475615415
+    second: Kid_Running_Animation 2_660
+  - first:
+      213: -49633391204111043
+    second: Kid_Running_Animation 2_661
+  - first:
+      213: 68347776799714832
+    second: Kid_Running_Animation 2_662
+  - first:
+      213: 1274510570480024490
+    second: Kid_Running_Animation 2_663
+  - first:
+      213: -6418122616409916162
+    second: Kid_Running_Animation 2_664
+  - first:
+      213: -328970535706688796
+    second: Kid_Running_Animation 2_665
+  - first:
+      213: 9139977365404386167
+    second: Kid_Running_Animation 2_666
+  - first:
+      213: -9202875012681940975
+    second: Kid_Running_Animation 2_667
+  - first:
+      213: 2118205271909612224
+    second: Kid_Running_Animation 2_668
+  - first:
+      213: -8712875687240556497
+    second: Kid_Running_Animation 2_669
+  - first:
+      213: 2249989577278889722
+    second: Kid_Running_Animation 2_670
+  - first:
+      213: 4913186059945521390
+    second: Kid_Running_Animation 2_671
+  - first:
+      213: -5886587136565706522
+    second: Kid_Running_Animation 2_672
+  - first:
+      213: -7099326390873603780
+    second: Kid_Running_Animation 2_673
+  - first:
+      213: 6915677599708933834
+    second: Kid_Running_Animation 2_674
+  - first:
+      213: -8400410019638177825
+    second: Kid_Running_Animation 2_675
+  - first:
+      213: 6392097290424619604
+    second: Kid_Running_Animation 2_676
+  - first:
+      213: -8502522516878247329
+    second: Kid_Running_Animation 2_677
+  - first:
+      213: 3867067937751324148
+    second: Kid_Running_Animation 2_678
+  - first:
+      213: -6276738740509644224
+    second: Kid_Running_Animation 2_679
+  - first:
+      213: 581123561253430647
+    second: Kid_Running_Animation 2_680
+  - first:
+      213: -3251394355904308094
+    second: Kid_Running_Animation 2_681
+  - first:
+      213: 8670175505739351611
+    second: Kid_Running_Animation 2_682
+  - first:
+      213: 7847031137787493292
+    second: Kid_Running_Animation 2_683
+  - first:
+      213: -4314009114118697436
+    second: Kid_Running_Animation 2_684
+  - first:
+      213: 4654449920260431720
+    second: Kid_Running_Animation 2_685
+  - first:
+      213: -4862481287236422403
+    second: Kid_Running_Animation 2_686
+  - first:
+      213: -2118302360838049945
+    second: Kid_Running_Animation 2_687
+  - first:
+      213: -6587104141035005072
+    second: Kid_Running_Animation 2_688
+  - first:
+      213: -508323768671423704
+    second: Kid_Running_Animation 2_689
+  - first:
+      213: -193850251728673947
+    second: Kid_Running_Animation 2_690
+  - first:
+      213: 3675338494280974624
+    second: Kid_Running_Animation 2_691
+  - first:
+      213: -8471252731657522092
+    second: Kid_Running_Animation 2_692
+  - first:
+      213: 994146569750700848
+    second: Kid_Running_Animation 2_693
+  - first:
+      213: 171560122889802296
+    second: Kid_Running_Animation 2_694
+  - first:
+      213: -7070581008030242302
+    second: Kid_Running_Animation 2_695
+  - first:
+      213: 1114041812615714555
+    second: Kid_Running_Animation 2_696
+  - first:
+      213: -1958939509830223863
+    second: Kid_Running_Animation 2_697
+  - first:
+      213: 6797091416029878114
+    second: Kid_Running_Animation 2_698
+  - first:
+      213: -7427024835816757688
+    second: Kid_Running_Animation 2_699
+  - first:
+      213: -54222310929786699
+    second: Kid_Running_Animation 2_700
+  - first:
+      213: -6115581218873393797
+    second: Kid_Running_Animation 2_701
+  - first:
+      213: -7582896684682810174
+    second: Kid_Running_Animation 2_702
+  - first:
+      213: -2570268302915290164
+    second: Kid_Running_Animation 2_703
+  - first:
+      213: 8556350144538145186
+    second: Kid_Running_Animation 2_704
+  - first:
+      213: 8500764068704262060
+    second: Kid_Running_Animation 2_705
+  - first:
+      213: 4091191775724291790
+    second: Kid_Running_Animation 2_706
+  - first:
+      213: -4234493808021073763
+    second: Kid_Running_Animation 2_707
+  - first:
+      213: -3448389772904124746
+    second: Kid_Running_Animation 2_708
+  - first:
+      213: 3363654374984590832
+    second: Kid_Running_Animation 2_709
+  - first:
+      213: 4284436922992398968
+    second: Kid_Running_Animation 2_710
+  - first:
+      213: 3705424926285253302
+    second: Kid_Running_Animation 2_711
+  - first:
+      213: 5240348434583106832
+    second: Kid_Running_Animation 2_712
+  - first:
+      213: 7631786113932598770
+    second: Kid_Running_Animation 2_713
+  - first:
+      213: -7543820333203776249
+    second: Kid_Running_Animation 2_714
+  - first:
+      213: 2346242410515336882
+    second: Kid_Running_Animation 2_715
+  - first:
+      213: 1413026852402986415
+    second: Kid_Running_Animation 2_716
+  - first:
+      213: 4025053567027395166
+    second: Kid_Running_Animation 2_717
+  - first:
+      213: 6384377587713435566
+    second: Kid_Running_Animation 2_718
+  - first:
+      213: 6827112191951784688
+    second: Kid_Running_Animation 2_719
+  - first:
+      213: 4186616265971627992
+    second: Kid_Running_Animation 2_720
+  - first:
+      213: -4256068542136186826
+    second: Kid_Running_Animation 2_721
+  - first:
+      213: 7478100462431108143
+    second: Kid_Running_Animation 2_722
+  - first:
+      213: -1689434829737489945
+    second: Kid_Running_Animation 2_723
+  - first:
+      213: -8816651477006353672
+    second: Kid_Running_Animation 2_724
+  - first:
+      213: 1657388159409037512
+    second: Kid_Running_Animation 2_725
+  - first:
+      213: 3258492028260984758
+    second: Kid_Running_Animation 2_726
+  - first:
+      213: 9110552305227942621
+    second: Kid_Running_Animation 2_727
+  - first:
+      213: -452025970913013345
+    second: Kid_Running_Animation 2_728
+  - first:
+      213: -8562024148549613448
+    second: Kid_Running_Animation 2_729
+  - first:
+      213: 7026596731236440995
+    second: Kid_Running_Animation 2_730
+  - first:
+      213: -6111433902117336166
+    second: Kid_Running_Animation 2_731
+  - first:
+      213: 3853970328129246010
+    second: Kid_Running_Animation 2_732
+  - first:
+      213: -8736629964333734502
+    second: Kid_Running_Animation 2_733
+  - first:
+      213: -6103676462430129275
+    second: Kid_Running_Animation 2_734
+  - first:
+      213: -4555978800101750798
+    second: Kid_Running_Animation 2_735
+  - first:
+      213: -4336382554836222679
+    second: Kid_Running_Animation 2_736
+  - first:
+      213: -5635185105179667377
+    second: Kid_Running_Animation 2_737
+  - first:
+      213: -583316248230521329
+    second: Kid_Running_Animation 2_738
+  - first:
+      213: -4218362397693203228
+    second: Kid_Running_Animation 2_739
+  - first:
+      213: 1524331735681281055
+    second: Kid_Running_Animation 2_740
+  - first:
+      213: 2905930413798160194
+    second: Kid_Running_Animation 2_741
+  - first:
+      213: -7472483094847385680
+    second: Kid_Running_Animation 2_742
+  - first:
+      213: 2562884066664954568
+    second: Kid_Running_Animation 2_743
+  - first:
+      213: 1209992611424973743
+    second: Kid_Running_Animation 2_744
+  - first:
+      213: -8943607076189030616
+    second: Kid_Running_Animation 2_745
+  - first:
+      213: 1381014863278280578
+    second: Kid_Running_Animation 2_746
+  - first:
+      213: 8571035363248261404
+    second: Kid_Running_Animation 2_747
+  - first:
+      213: 873366349983642905
+    second: Kid_Running_Animation 2_748
+  - first:
+      213: 7683163968948835310
+    second: Kid_Running_Animation 2_749
+  - first:
+      213: -2565951734868119329
+    second: Kid_Running_Animation 2_750
+  - first:
+      213: 6202394165819168491
+    second: Kid_Running_Animation 2_751
+  - first:
+      213: -1075044940350328830
+    second: Kid_Running_Animation 2_752
+  - first:
+      213: -4923902562491248017
+    second: Kid_Running_Animation 2_753
+  - first:
+      213: 7693537619775785316
+    second: Kid_Running_Animation 2_754
+  - first:
+      213: 6272808210222818458
+    second: Kid_Running_Animation 2_755
+  - first:
+      213: -791039011131180936
+    second: Kid_Running_Animation 2_756
+  - first:
+      213: 4693377788517507387
+    second: Kid_Running_Animation 2_757
+  - first:
+      213: -285809642366166897
+    second: Kid_Running_Animation 2_758
+  - first:
+      213: -2766922145907136254
+    second: Kid_Running_Animation 2_759
+  - first:
+      213: -6914267104971736942
+    second: Kid_Running_Animation 2_760
+  - first:
+      213: -6079879946455052395
+    second: Kid_Running_Animation 2_761
+  - first:
+      213: 5791973926451233870
+    second: Kid_Running_Animation 2_762
+  - first:
+      213: -1448610344148582699
+    second: Kid_Running_Animation 2_763
+  - first:
+      213: -8506300014841869945
+    second: Kid_Running_Animation 2_764
+  - first:
+      213: -6750115654353783952
+    second: Kid_Running_Animation 2_765
+  - first:
+      213: -8117657815125853483
+    second: Kid_Running_Animation 2_766
+  - first:
+      213: -8594607271638532362
+    second: Kid_Running_Animation 2_767
+  - first:
+      213: 5627291329254624283
+    second: Kid_Running_Animation 2_768
+  - first:
+      213: 5702004855566646550
+    second: Kid_Running_Animation 2_769
+  - first:
+      213: -5735133500536520893
+    second: Kid_Running_Animation 2_770
+  - first:
+      213: -6859776416186973002
+    second: Kid_Running_Animation 2_771
+  - first:
+      213: 2205967899123964547
+    second: Kid_Running_Animation 2_772
+  - first:
+      213: 3600051236332802260
+    second: Kid_Running_Animation 2_773
+  - first:
+      213: -2701571945600645521
+    second: Kid_Running_Animation 2_774
+  - first:
+      213: -7992485075884351602
+    second: Kid_Running_Animation 2_775
+  - first:
+      213: -5393446885691816534
+    second: Kid_Running_Animation 2_776
+  - first:
+      213: 4430193683154188926
+    second: Kid_Running_Animation 2_777
+  - first:
+      213: -322087010650645132
+    second: Kid_Running_Animation 2_778
+  - first:
+      213: -1082458696241894644
+    second: Kid_Running_Animation 2_779
+  - first:
+      213: -4708814168507641943
+    second: Kid_Running_Animation 2_780
+  - first:
+      213: 8057393679008227521
+    second: Kid_Running_Animation 2_781
+  - first:
+      213: 2812375179102015446
+    second: Kid_Running_Animation 2_782
+  - first:
+      213: 4404280677728799166
+    second: Kid_Running_Animation 2_783
+  - first:
+      213: -8901182072291535752
+    second: Kid_Running_Animation 2_784
+  - first:
+      213: 7972022618409128762
+    second: Kid_Running_Animation 2_785
+  - first:
+      213: 8923802917403891361
+    second: Kid_Running_Animation 2_786
+  - first:
+      213: 1500062596196925545
+    second: Kid_Running_Animation 2_787
+  - first:
+      213: 8807850971950036248
+    second: Kid_Running_Animation 2_788
+  - first:
+      213: -8664540039849949555
+    second: Kid_Running_Animation 2_789
+  - first:
+      213: 8559085679245743977
+    second: Kid_Running_Animation 2_790
+  - first:
+      213: 8162039749396504425
+    second: Kid_Running_Animation 2_791
+  - first:
+      213: 2527275437594350928
+    second: Kid_Running_Animation 2_792
+  - first:
+      213: 5865269979854390480
+    second: Kid_Running_Animation 2_793
+  - first:
+      213: 2572601275333453969
+    second: Kid_Running_Animation 2_794
+  - first:
+      213: -5420586017242709226
+    second: Kid_Running_Animation 2_795
+  - first:
+      213: -7848500458923446782
+    second: Kid_Running_Animation 2_796
+  - first:
+      213: 7557548719481891490
+    second: Kid_Running_Animation 2_797
+  - first:
+      213: -6295194076124827894
+    second: Kid_Running_Animation 2_798
+  - first:
+      213: 3224374212888358297
+    second: Kid_Running_Animation 2_799
+  - first:
+      213: -6681439633334529687
+    second: Kid_Running_Animation 2_800
+  - first:
+      213: 2814884956561658250
+    second: Kid_Running_Animation 2_801
+  - first:
+      213: -3724104565293829588
+    second: Kid_Running_Animation 2_802
+  - first:
+      213: 278445910571265249
+    second: Kid_Running_Animation 2_803
+  - first:
+      213: -4527587263735613026
+    second: Kid_Running_Animation 2_804
+  - first:
+      213: -7705068799348753353
+    second: Kid_Running_Animation 2_805
+  - first:
+      213: -1069704863457587182
+    second: Kid_Running_Animation 2_806
+  - first:
+      213: 3823742890224964398
+    second: Kid_Running_Animation 2_807
+  - first:
+      213: -1859509832204591515
+    second: Kid_Running_Animation 2_808
+  - first:
+      213: -237262131225472408
+    second: Kid_Running_Animation 2_809
+  - first:
+      213: 8264214354716267547
+    second: Kid_Running_Animation 2_810
+  - first:
+      213: 4581624379199865898
+    second: Kid_Running_Animation 2_811
+  - first:
+      213: 2293406764934412462
+    second: Kid_Running_Animation 2_812
+  - first:
+      213: 1880675762596015844
+    second: Kid_Running_Animation 2_813
+  - first:
+      213: 2404832096982964135
+    second: Kid_Running_Animation 2_814
+  - first:
+      213: -5184097335436432539
+    second: Kid_Running_Animation 2_815
+  - first:
+      213: -6613050680089708271
+    second: Kid_Running_Animation 2_816
+  - first:
+      213: 1915784468507794722
+    second: Kid_Running_Animation 2_817
+  - first:
+      213: 1693753815118643395
+    second: Kid_Running_Animation 2_818
+  - first:
+      213: -5589824522694374594
+    second: Kid_Running_Animation 2_819
+  - first:
+      213: -8228857726974680733
+    second: Kid_Running_Animation 2_820
+  - first:
+      213: -6154548143925073196
+    second: Kid_Running_Animation 2_821
+  - first:
+      213: 5782685441160489082
+    second: Kid_Running_Animation 2_822
+  - first:
+      213: -1127172803606837536
+    second: Kid_Running_Animation 2_823
+  - first:
+      213: 2949697693697918330
+    second: Kid_Running_Animation 2_824
+  - first:
+      213: 5792153878544090777
+    second: Kid_Running_Animation 2_825
+  - first:
+      213: 7619328137345578671
+    second: Kid_Running_Animation 2_826
+  - first:
+      213: -3506124482682791647
+    second: Kid_Running_Animation 2_827
+  - first:
+      213: -5215779826234844604
+    second: Kid_Running_Animation 2_828
+  - first:
+      213: 8731608697864105362
+    second: Kid_Running_Animation 2_829
+  - first:
+      213: 6734043228931815139
+    second: Kid_Running_Animation 2_830
+  - first:
+      213: 3401496114252359203
+    second: Kid_Running_Animation 2_831
+  - first:
+      213: 463956953971546060
+    second: Kid_Running_Animation 2_832
+  - first:
+      213: 8568373797886378799
+    second: Kid_Running_Animation 2_833
+  - first:
+      213: 1045184296462725344
+    second: Kid_Running_Animation 2_834
+  - first:
+      213: -7457949697028411277
+    second: Kid_Running_Animation 2_835
+  - first:
+      213: -3811747900012568359
+    second: Kid_Running_Animation 2_836
+  - first:
+      213: -6187820221320962054
+    second: Kid_Running_Animation 2_837
+  - first:
+      213: -3964913258447836653
+    second: Kid_Running_Animation 2_838
+  - first:
+      213: -4990615106233133476
+    second: Kid_Running_Animation 2_839
+  - first:
+      213: 8129489787079507957
+    second: Kid_Running_Animation 2_840
+  - first:
+      213: -303251498299968813
+    second: Kid_Running_Animation 2_841
+  - first:
+      213: -8265551703958332372
+    second: Kid_Running_Animation 2_842
+  - first:
+      213: -5417312043274616872
+    second: Kid_Running_Animation 2_843
+  - first:
+      213: -773169409070509136
+    second: Kid_Running_Animation 2_844
+  - first:
+      213: -7370372272796591860
+    second: Kid_Running_Animation 2_845
+  - first:
+      213: 2161863742230079827
+    second: Kid_Running_Animation 2_846
+  - first:
+      213: -3582233937277473169
+    second: Kid_Running_Animation 2_847
+  - first:
+      213: 2239595631210017223
+    second: Kid_Running_Animation 2_848
+  - first:
+      213: -964161176649791273
+    second: Kid_Running_Animation 2_849
+  - first:
+      213: 3014104430591759067
+    second: Kid_Running_Animation 2_850
+  - first:
+      213: -412231854857566621
+    second: Kid_Running_Animation 2_851
+  - first:
+      213: -6011806083396574483
+    second: Kid_Running_Animation 2_852
+  - first:
+      213: 5435141920379751548
+    second: Kid_Running_Animation 2_853
+  - first:
+      213: 8340381485306629536
+    second: Kid_Running_Animation 2_854
+  - first:
+      213: -1999146529775863157
+    second: Kid_Running_Animation 2_855
+  - first:
+      213: -1346813637900308545
+    second: Kid_Running_Animation 2_856
+  - first:
+      213: 4085866542575310308
+    second: Kid_Running_Animation 2_857
+  - first:
+      213: 3010229333669679032
+    second: Kid_Running_Animation 2_858
+  - first:
+      213: 3017974488839044167
+    second: Kid_Running_Animation 2_859
+  - first:
+      213: -7931293176087524439
+    second: Kid_Running_Animation 2_860
+  - first:
+      213: -8709296195655865505
+    second: Kid_Running_Animation 2_861
+  - first:
+      213: 3462729690068389030
+    second: Kid_Running_Animation 2_862
+  - first:
+      213: 5123713930177839184
+    second: Kid_Running_Animation 2_863
+  - first:
+      213: 7963773349215522242
+    second: Kid_Running_Animation 2_864
+  - first:
+      213: -1919372142883072843
+    second: Kid_Running_Animation 2_865
+  - first:
+      213: 1543572469000681228
+    second: Kid_Running_Animation 2_866
+  - first:
+      213: -6692462898340109155
+    second: Kid_Running_Animation 2_867
+  - first:
+      213: -6302562256300282167
+    second: Kid_Running_Animation 2_868
+  - first:
+      213: -158580101902006559
+    second: Kid_Running_Animation 2_869
+  - first:
+      213: -7963462468950225804
+    second: Kid_Running_Animation 2_870
+  - first:
+      213: 4304747101314486308
+    second: Kid_Running_Animation 2_871
+  - first:
+      213: -831562403354197774
+    second: Kid_Running_Animation 2_872
+  - first:
+      213: 3302264914121298187
+    second: Kid_Running_Animation 2_873
+  - first:
+      213: -282775356634653880
+    second: Kid_Running_Animation 2_874
+  - first:
+      213: -3453135468014265801
+    second: Kid_Running_Animation 2_875
+  - first:
+      213: 9024513506652872969
+    second: Kid_Running_Animation 2_876
+  - first:
+      213: 6592772478530111793
+    second: Kid_Running_Animation 2_877
+  - first:
+      213: 1394559941888529222
+    second: Kid_Running_Animation 2_878
+  - first:
+      213: -3067669213254742844
+    second: Kid_Running_Animation 2_879
+  - first:
+      213: -2669611946849349512
+    second: Kid_Running_Animation 2_880
+  - first:
+      213: 7524508170536411612
+    second: Kid_Running_Animation 2_881
+  - first:
+      213: -877831867501082545
+    second: Kid_Running_Animation 2_882
+  - first:
+      213: -6272916204844580103
+    second: Kid_Running_Animation 2_883
+  - first:
+      213: -2927675300322609211
+    second: Kid_Running_Animation 2_884
+  - first:
+      213: 4456915127466379923
+    second: Kid_Running_Animation 2_885
+  - first:
+      213: -1742144625948133817
+    second: Kid_Running_Animation 2_886
+  - first:
+      213: 3235955470761538438
+    second: Kid_Running_Animation 2_887
+  - first:
+      213: 8903308283253337434
+    second: Kid_Running_Animation 2_888
+  - first:
+      213: 3505814343928312535
+    second: Kid_Running_Animation 2_889
+  - first:
+      213: 7870055816840117473
+    second: Kid_Running_Animation 2_890
+  - first:
+      213: 5604779997439743326
+    second: Kid_Running_Animation 2_891
+  - first:
+      213: 2201073520274629
+    second: Kid_Running_Animation 2_892
+  - first:
+      213: -8307045973226965153
+    second: Kid_Running_Animation 2_893
+  - first:
+      213: 264640786634986787
+    second: Kid_Running_Animation 2_894
+  - first:
+      213: 6100158430128662460
+    second: Kid_Running_Animation 2_895
+  - first:
+      213: -5895508095572545203
+    second: Kid_Running_Animation 2_896
+  - first:
+      213: 2516392638812752355
+    second: Kid_Running_Animation 2_897
+  - first:
+      213: -3574797379499822326
+    second: Kid_Running_Animation 2_898
+  - first:
+      213: 1447898540958922636
+    second: Kid_Running_Animation 2_899
+  - first:
+      213: -4843115990108968856
+    second: Kid_Running_Animation 2_900
+  - first:
+      213: -7793756155299781863
+    second: Kid_Running_Animation 2_901
+  - first:
+      213: 7043617550632637546
+    second: Kid_Running_Animation 2_902
+  - first:
+      213: 5564039984058298112
+    second: Kid_Running_Animation 2_903
+  - first:
+      213: -4654686185642190975
+    second: Kid_Running_Animation 2_904
+  - first:
+      213: -1293551536317815675
+    second: Kid_Running_Animation 2_905
+  - first:
+      213: -3885516789389417942
+    second: Kid_Running_Animation 2_906
+  - first:
+      213: -6719342734696611365
+    second: Kid_Running_Animation 2_907
+  - first:
+      213: 6510853474757808925
+    second: Kid_Running_Animation 2_908
+  - first:
+      213: 1839768972495259392
+    second: Kid_Running_Animation 2_909
+  - first:
+      213: 2049588377055049383
+    second: Kid_Running_Animation 2_910
+  - first:
+      213: -8439267589226250774
+    second: Kid_Running_Animation 2_911
+  - first:
+      213: -9069867982332092895
+    second: Kid_Running_Animation 2_912
+  - first:
+      213: 8462088106399531176
+    second: Kid_Running_Animation 2_913
+  - first:
+      213: -3339727899722932895
+    second: Kid_Running_Animation 2_914
+  - first:
+      213: -3509777912984667981
+    second: Kid_Running_Animation 2_915
+  - first:
+      213: -4022122404248497033
+    second: Kid_Running_Animation 2_916
+  - first:
+      213: 5369919023812466578
+    second: Kid_Running_Animation 2_917
+  - first:
+      213: 8754773530037288393
+    second: Kid_Running_Animation 2_918
+  - first:
+      213: 3208300552462470803
+    second: Kid_Running_Animation 2_919
+  - first:
+      213: 7898201988026830123
+    second: Kid_Running_Animation 2_920
+  - first:
+      213: -1899737714099690396
+    second: Kid_Running_Animation 2_921
+  - first:
+      213: -6305416171633020213
+    second: Kid_Running_Animation 2_922
+  - first:
+      213: -4037309282731771515
+    second: Kid_Running_Animation 2_923
+  - first:
+      213: 4319732599367210478
+    second: Kid_Running_Animation 2_924
+  - first:
+      213: 504992923156804623
+    second: Kid_Running_Animation 2_925
+  - first:
+      213: -8527288174577812314
+    second: Kid_Running_Animation 2_926
+  - first:
+      213: -2576789544851919144
+    second: Kid_Running_Animation 2_927
+  - first:
+      213: 5443211099765122858
+    second: Kid_Running_Animation 2_928
+  - first:
+      213: -8956833102622459261
+    second: Kid_Running_Animation 2_929
+  - first:
+      213: 1509900230363965357
+    second: Kid_Running_Animation 2_930
+  - first:
+      213: -1142245338839368686
+    second: Kid_Running_Animation 2_931
+  - first:
+      213: 5065553162059674470
+    second: Kid_Running_Animation 2_932
+  - first:
+      213: -1257000703157165717
+    second: Kid_Running_Animation 2_933
+  - first:
+      213: 1652924455987052815
+    second: Kid_Running_Animation 2_934
+  - first:
+      213: -6959662185023187256
+    second: Kid_Running_Animation 2_935
+  - first:
+      213: 4832002749016118797
+    second: Kid_Running_Animation 2_936
+  - first:
+      213: 778753120736946093
+    second: Kid_Running_Animation 2_937
+  - first:
+      213: 1597975782478080169
+    second: Kid_Running_Animation 2_938
+  - first:
+      213: -5939414059196639790
+    second: Kid_Running_Animation 2_939
+  - first:
+      213: -9217634044390772949
+    second: Kid_Running_Animation 2_940
+  - first:
+      213: -4277958426316582638
+    second: Kid_Running_Animation 2_941
+  - first:
+      213: 406364340368213092
+    second: Kid_Running_Animation 2_942
+  - first:
+      213: 1989699795811425023
+    second: Kid_Running_Animation 2_943
+  - first:
+      213: -9129395731423240076
+    second: Kid_Running_Animation 2_944
+  - first:
+      213: 8386772866034511691
+    second: Kid_Running_Animation 2_945
+  - first:
+      213: -7026245251092672685
+    second: Kid_Running_Animation 2_946
+  - first:
+      213: 4521082434606251
+    second: Kid_Running_Animation 2_947
+  - first:
+      213: -2960029668531132164
+    second: Kid_Running_Animation 2_948
+  - first:
+      213: -7711366628764626634
+    second: Kid_Running_Animation 2_949
+  - first:
+      213: 577798074803277482
+    second: Kid_Running_Animation 2_950
+  - first:
+      213: -553865743802092955
+    second: Kid_Running_Animation 2_951
+  - first:
+      213: -6469071811317381923
+    second: Kid_Running_Animation 2_952
+  - first:
+      213: -8733787206353770840
+    second: Kid_Running_Animation 2_953
+  - first:
+      213: -1002430596159218080
+    second: Kid_Running_Animation 2_954
+  - first:
+      213: -7125212655637423356
+    second: Kid_Running_Animation 2_955
+  - first:
+      213: -365745823615901853
+    second: Kid_Running_Animation 2_956
+  - first:
+      213: -3443077255357256735
+    second: Kid_Running_Animation 2_957
+  - first:
+      213: -8883236107149696782
+    second: Kid_Running_Animation 2_958
+  - first:
+      213: -6497598254910628472
+    second: Kid_Running_Animation 2_959
+  - first:
+      213: -8915651473161135627
+    second: Kid_Running_Animation 2_960
+  - first:
+      213: -1997188609400286164
+    second: Kid_Running_Animation 2_961
+  - first:
+      213: 1909394876877662364
+    second: Kid_Running_Animation 2_962
+  - first:
+      213: 6926388788764597776
+    second: Kid_Running_Animation 2_963
+  - first:
+      213: -4646107833461587218
+    second: Kid_Running_Animation 2_964
+  - first:
+      213: -7675614964899941419
+    second: Kid_Running_Animation 2_965
+  - first:
+      213: 3513544064659237128
+    second: Kid_Running_Animation 2_966
+  - first:
+      213: -8088504773494797579
+    second: Kid_Running_Animation 2_967
+  - first:
+      213: -1669243933101054033
+    second: Kid_Running_Animation 2_968
+  - first:
+      213: 56239952631484656
+    second: Kid_Running_Animation 2_969
+  - first:
+      213: 7798629334719252981
+    second: Kid_Running_Animation 2_970
+  - first:
+      213: -2927293051739987034
+    second: Kid_Running_Animation 2_971
+  - first:
+      213: 3223045151140330645
+    second: Kid_Running_Animation 2_972
+  - first:
+      213: -7099508778028149884
+    second: Kid_Running_Animation 2_973
+  - first:
+      213: 2958374182890540310
+    second: Kid_Running_Animation 2_974
+  - first:
+      213: 5262995823288874560
+    second: Kid_Running_Animation 2_975
+  - first:
+      213: -7454128770803249690
+    second: Kid_Running_Animation 2_976
+  - first:
+      213: 5319368654667198355
+    second: Kid_Running_Animation 2_977
+  - first:
+      213: -8635437203298310814
+    second: Kid_Running_Animation 2_978
+  - first:
+      213: 2074051889102715582
+    second: Kid_Running_Animation 2_979
+  - first:
+      213: -7906501018170096011
+    second: Kid_Running_Animation 2_980
+  - first:
+      213: 5786057247281648588
+    second: Kid_Running_Animation 2_981
+  - first:
+      213: -557438754197640112
+    second: Kid_Running_Animation 2_982
+  - first:
+      213: -1697977762145834405
+    second: Kid_Running_Animation 2_983
+  - first:
+      213: -8118107470237361178
+    second: Kid_Running_Animation 2_984
+  - first:
+      213: -2734115664801491599
+    second: Kid_Running_Animation 2_985
+  - first:
+      213: 626536344983547619
+    second: Kid_Running_Animation 2_986
+  - first:
+      213: 4819320766324525271
+    second: Kid_Running_Animation 2_987
+  - first:
+      213: -1245037262140071168
+    second: Kid_Running_Animation 2_988
+  - first:
+      213: -1046669457265638870
+    second: Kid_Running_Animation 2_989
+  - first:
+      213: -2249648152019748516
+    second: Kid_Running_Animation 2_990
+  - first:
+      213: -6993709564974244786
+    second: Kid_Running_Animation 2_991
+  - first:
+      213: 955818624298691934
+    second: Kid_Running_Animation 2_992
+  - first:
+      213: -313412283976328166
+    second: Kid_Running_Animation 2_993
+  - first:
+      213: -7996746026439769048
+    second: Kid_Running_Animation 2_994
+  - first:
+      213: -3742052677461365785
+    second: Kid_Running_Animation 2_995
+  - first:
+      213: 2035940765613454374
+    second: Kid_Running_Animation 2_996
+  - first:
+      213: -2357112060285507829
+    second: Kid_Running_Animation 2_997
+  - first:
+      213: 939838872805452972
+    second: Kid_Running_Animation 2_998
+  - first:
+      213: 7537554828342777775
+    second: Kid_Running_Animation 2_999
+  - first:
+      213: 4017937795365321860
+    second: Kid_Running_Animation 2_1000
+  - first:
+      213: 2925735720503385208
+    second: Kid_Running_Animation 2_1001
+  - first:
+      213: 2334555326634670541
+    second: Kid_Running_Animation 2_1002
+  - first:
+      213: -182663029158394385
+    second: Kid_Running_Animation 2_1003
+  - first:
+      213: 1153389401162313367
+    second: Kid_Running_Animation 2_1004
+  - first:
+      213: -5034264269313433793
+    second: Kid_Running_Animation 2_1005
+  - first:
+      213: 6449716082620955869
+    second: Kid_Running_Animation 2_1006
+  - first:
+      213: -1299838439825531811
+    second: Kid_Running_Animation 2_1007
+  - first:
+      213: -7359532377924296883
+    second: Kid_Running_Animation 2_1008
+  - first:
+      213: 8315366277553242332
+    second: Kid_Running_Animation 2_1009
+  - first:
+      213: 7682879005760903433
+    second: Kid_Running_Animation 2_1010
+  - first:
+      213: -8599498957462348073
+    second: Kid_Running_Animation 2_1011
+  - first:
+      213: 8419762514556627097
+    second: Kid_Running_Animation 2_1012
+  - first:
+      213: 884768734931708479
+    second: Kid_Running_Animation 2_1013
+  - first:
+      213: 3253802433010543042
+    second: Kid_Running_Animation 2_1014
+  - first:
+      213: -5651469525076238441
+    second: Kid_Running_Animation 2_1015
+  - first:
+      213: 3891989432432381481
+    second: Kid_Running_Animation 2_1016
+  - first:
+      213: -2021455985665357641
+    second: Kid_Running_Animation 2_1017
+  - first:
+      213: -7608096804723812669
+    second: Kid_Running_Animation 2_1018
+  - first:
+      213: 5566397627485176408
+    second: Kid_Running_Animation 2_1019
+  - first:
+      213: 8406548569616683878
+    second: Kid_Running_Animation 2_1020
+  - first:
+      213: 8856675756920916543
+    second: Kid_Running_Animation 2_1021
+  - first:
+      213: 376762994428002661
+    second: Kid_Running_Animation 2_1022
+  - first:
+      213: 7186754762803738835
+    second: Kid_Running_Animation 2_1023
+  - first:
+      213: -5733364582862572709
+    second: Kid_Running_Animation 2_1024
+  - first:
+      213: -2074147338209937431
+    second: Kid_Running_Animation 2_1025
+  - first:
+      213: -6425480741418389976
+    second: Kid_Running_Animation 2_1026
+  - first:
+      213: -3194207269256864450
+    second: Kid_Running_Animation 2_1027
+  - first:
+      213: -541408051585706584
+    second: Kid_Running_Animation 2_1028
+  - first:
+      213: 3465107630360648487
+    second: Kid_Running_Animation 2_1029
+  - first:
+      213: -8400209891192004868
+    second: Kid_Running_Animation 2_1030
+  - first:
+      213: -1994668483612313522
+    second: Kid_Running_Animation 2_1031
+  - first:
+      213: 4684118912443400444
+    second: Kid_Running_Animation 2_1032
+  - first:
+      213: 1086043751530869406
+    second: Kid_Running_Animation 2_1033
+  - first:
+      213: 4454652190955875343
+    second: Kid_Running_Animation 2_1034
+  - first:
+      213: -8514884499577386120
+    second: Kid_Running_Animation 2_1035
+  - first:
+      213: -5934853902178562503
+    second: Kid_Running_Animation 2_1036
+  - first:
+      213: -669175354240210969
+    second: Kid_Running_Animation 2_1037
+  - first:
+      213: 1224878860109292845
+    second: Kid_Running_Animation 2_1038
+  - first:
+      213: -2029268471097275711
+    second: Kid_Running_Animation 2_1039
+  - first:
+      213: 6369699670793885077
+    second: Kid_Running_Animation 2_1040
+  - first:
+      213: -5099814502192898616
+    second: Kid_Running_Animation 2_1041
+  - first:
+      213: 7417412426063760144
+    second: Kid_Running_Animation 2_1042
+  - first:
+      213: -3568037352963784333
+    second: Kid_Running_Animation 2_1043
+  - first:
+      213: -1683525224728220990
+    second: Kid_Running_Animation 2_1044
+  - first:
+      213: -875709592514093404
+    second: Kid_Running_Animation 2_1045
+  - first:
+      213: 7654057538802612027
+    second: Kid_Running_Animation 2_1046
+  - first:
+      213: 2504139595199950577
+    second: Kid_Running_Animation 2_1047
+  - first:
+      213: 6643457362548311702
+    second: Kid_Running_Animation 2_1048
+  - first:
+      213: 8190313982481692849
+    second: Kid_Running_Animation 2_1049
+  - first:
+      213: 23821265468913934
+    second: Kid_Running_Animation 2_1050
+  - first:
+      213: 5986195158752097730
+    second: Kid_Running_Animation 2_1051
+  - first:
+      213: -5229299231943771378
+    second: Kid_Running_Animation 2_1052
+  - first:
+      213: -7297254511306656468
+    second: Kid_Running_Animation 2_1053
+  - first:
+      213: -2509661278706824803
+    second: Kid_Running_Animation 2_1054
+  - first:
+      213: -5093262397902888565
+    second: Kid_Running_Animation 2_1055
+  - first:
+      213: -7019722786047900631
+    second: Kid_Running_Animation 2_1056
+  - first:
+      213: -928205666439113104
+    second: Kid_Running_Animation 2_1057
+  - first:
+      213: 4759775143820251346
+    second: Kid_Running_Animation 2_1058
+  - first:
+      213: 7364242007821945917
+    second: Kid_Running_Animation 2_1059
+  - first:
+      213: -3109677796087430768
+    second: Kid_Running_Animation 2_1060
+  - first:
+      213: -5070323478887911537
+    second: Kid_Running_Animation 2_1061
+  - first:
+      213: 3451209371146079476
+    second: Kid_Running_Animation 2_1062
+  - first:
+      213: -2844695135726451008
+    second: Kid_Running_Animation 2_1063
+  - first:
+      213: -5996454940600646741
+    second: Kid_Running_Animation 2_1064
+  - first:
+      213: -1159845016890609161
+    second: Kid_Running_Animation 2_1065
+  - first:
+      213: 6719429403365570903
+    second: Kid_Running_Animation 2_1066
+  - first:
+      213: -4495646829932628484
+    second: Kid_Running_Animation 2_1067
+  - first:
+      213: 5215070840895081898
+    second: Kid_Running_Animation 2_1068
+  - first:
+      213: -5695308974060273534
+    second: Kid_Running_Animation 2_1069
+  - first:
+      213: 8862344969577961576
+    second: Kid_Running_Animation 2_1070
+  - first:
+      213: -4860488369926158821
+    second: Kid_Running_Animation 2_1071
+  - first:
+      213: -3095054301589518856
+    second: Kid_Running_Animation 2_1072
+  - first:
+      213: -5650748200187439711
+    second: Kid_Running_Animation 2_1073
+  - first:
+      213: -904073425662872
+    second: Kid_Running_Animation 2_1074
+  - first:
+      213: 2847720722413578063
+    second: Kid_Running_Animation 2_1075
+  - first:
+      213: -8448138131290597826
+    second: Kid_Running_Animation 2_1076
+  - first:
+      213: 5876673065481833682
+    second: Kid_Running_Animation 2_1077
+  - first:
+      213: 4154196278658165386
+    second: Kid_Running_Animation 2_1078
+  - first:
+      213: -1943388658619264844
+    second: Kid_Running_Animation 2_1079
+  - first:
+      213: 4348434165679453571
+    second: Kid_Running_Animation 2_1080
+  - first:
+      213: -468969526284311182
+    second: Kid_Running_Animation 2_1081
+  - first:
+      213: -1035398057252602752
+    second: Kid_Running_Animation 2_1082
+  - first:
+      213: -8805703762476542451
+    second: Kid_Running_Animation 2_1083
+  - first:
+      213: -1113142190673814787
+    second: Kid_Running_Animation 2_1084
+  - first:
+      213: 6424029408414195793
+    second: Kid_Running_Animation 2_1085
+  - first:
+      213: -1894864935411184296
+    second: Kid_Running_Animation 2_1086
+  - first:
+      213: -1819797900922992852
+    second: Kid_Running_Animation 2_1087
+  - first:
+      213: -1490561129033566422
+    second: Kid_Running_Animation 2_1088
+  - first:
+      213: -7673565067898669373
+    second: Kid_Running_Animation 2_1089
+  - first:
+      213: -476211365332532511
+    second: Kid_Running_Animation 2_1090
+  - first:
+      213: 387275885753870823
+    second: Kid_Running_Animation 2_1091
+  - first:
+      213: 9079306361484424108
+    second: Kid_Running_Animation 2_1092
+  - first:
+      213: -3639739555009155428
+    second: Kid_Running_Animation 2_1093
+  - first:
+      213: 7882982026771138882
+    second: Kid_Running_Animation 2_1094
+  - first:
+      213: -4951873440556279763
+    second: Kid_Running_Animation 2_1095
+  - first:
+      213: -1842730649025845069
+    second: Kid_Running_Animation 2_1096
+  - first:
+      213: 8968615833406674138
+    second: Kid_Running_Animation 2_1097
+  - first:
+      213: 4760462090117594508
+    second: Kid_Running_Animation 2_1098
+  - first:
+      213: -227095116601179608
+    second: Kid_Running_Animation 2_1099
+  - first:
+      213: 2853666174459999364
+    second: Kid_Running_Animation 2_1100
+  - first:
+      213: 9016008275463258025
+    second: Kid_Running_Animation 2_1101
+  - first:
+      213: 6026248908280427092
+    second: Kid_Running_Animation 2_1102
+  - first:
+      213: -8002270792997449508
+    second: Kid_Running_Animation 2_1103
+  - first:
+      213: -3482385882210196419
+    second: Kid_Running_Animation 2_1104
+  - first:
+      213: -956568004046718015
+    second: Kid_Running_Animation 2_1105
+  - first:
+      213: 6274548817606321187
+    second: Kid_Running_Animation 2_1106
+  - first:
+      213: -6971660104854815229
+    second: Kid_Running_Animation 2_1107
+  - first:
+      213: 1736681779385161712
+    second: Kid_Running_Animation 2_1108
+  - first:
+      213: -2371411633415370268
+    second: Kid_Running_Animation 2_1109
+  - first:
+      213: -4554737851685933170
+    second: Kid_Running_Animation 2_1110
+  - first:
+      213: -1773111645100614981
+    second: Kid_Running_Animation 2_1111
+  - first:
+      213: -6957581910515960010
+    second: Kid_Running_Animation 2_1112
+  - first:
+      213: 9046415778939372496
+    second: Kid_Running_Animation 2_1113
+  - first:
+      213: -5539879446421243156
+    second: Kid_Running_Animation 2_1114
+  - first:
+      213: -4645549995188188631
+    second: Kid_Running_Animation 2_1115
+  - first:
+      213: 9001274125336089008
+    second: Kid_Running_Animation 2_1116
+  - first:
+      213: 6613764682720933024
+    second: Kid_Running_Animation 2_1117
+  - first:
+      213: 2519634646551275939
+    second: Kid_Running_Animation 2_1118
+  - first:
+      213: -6313582426863419405
+    second: Kid_Running_Animation 2_1119
+  - first:
+      213: 5980208484269075616
+    second: Kid_Running_Animation 2_1120
+  - first:
+      213: -6113724243001548127
+    second: Kid_Running_Animation 2_1121
+  - first:
+      213: -76793882740597630
+    second: Kid_Running_Animation 2_1122
+  - first:
+      213: -6917221424440356740
+    second: Kid_Running_Animation 2_1123
+  - first:
+      213: -3112126917048091968
+    second: Kid_Running_Animation 2_1124
+  - first:
+      213: -3771972737159561403
+    second: Kid_Running_Animation 2_1125
+  - first:
+      213: 8350081687138824216
+    second: Kid_Running_Animation 2_1126
+  - first:
+      213: 7567578071189636865
+    second: Kid_Running_Animation 2_1127
+  - first:
+      213: -2920751652282279756
+    second: Kid_Running_Animation 2_1128
+  - first:
+      213: -6097026053492867522
+    second: Kid_Running_Animation 2_1129
+  - first:
+      213: 2119391117083414075
+    second: Kid_Running_Animation 2_1130
+  - first:
+      213: 4804743807146925291
+    second: Kid_Running_Animation 2_1131
+  - first:
+      213: -5710344739207098801
+    second: Kid_Running_Animation 2_1132
+  - first:
+      213: -8970137037689066307
+    second: Kid_Running_Animation 2_1133
+  - first:
+      213: -1921590507369139996
+    second: Kid_Running_Animation 2_1134
+  - first:
+      213: 3890943164257427365
+    second: Kid_Running_Animation 2_1135
+  - first:
+      213: -3276342469416502524
+    second: Kid_Running_Animation 2_1136
+  - first:
+      213: -5657745817269300197
+    second: Kid_Running_Animation 2_1137
+  - first:
+      213: -6596923789715979590
+    second: Kid_Running_Animation 2_1138
+  - first:
+      213: -4577723192120596064
+    second: Kid_Running_Animation 2_1139
+  - first:
+      213: 7774970354633853987
+    second: Kid_Running_Animation 2_1140
+  - first:
+      213: 1655036835884259573
+    second: Kid_Running_Animation 2_1141
+  - first:
+      213: -2167722213756449194
+    second: Kid_Running_Animation 2_1142
+  - first:
+      213: 5902762368617386690
+    second: Kid_Running_Animation 2_1143
+  - first:
+      213: -7709537138496684475
+    second: Kid_Running_Animation 2_1144
+  - first:
+      213: -2857744871905878000
+    second: Kid_Running_Animation 2_1145
+  - first:
+      213: -3339422924896561952
+    second: Kid_Running_Animation 2_1146
+  - first:
+      213: 3040245210058606470
+    second: Kid_Running_Animation 2_1147
+  - first:
+      213: 1221971241602906595
+    second: Kid_Running_Animation 2_1148
+  - first:
+      213: 1883011515424005009
+    second: Kid_Running_Animation 2_1149
+  - first:
+      213: 863561620068688508
+    second: Kid_Running_Animation 2_1150
+  - first:
+      213: 2882979019474954430
+    second: Kid_Running_Animation 2_1151
+  - first:
+      213: 1522883678639747457
+    second: Kid_Running_Animation 2_1152
+  - first:
+      213: -7346996914470155368
+    second: Kid_Running_Animation 2_1153
+  - first:
+      213: -8795809885800185239
+    second: Kid_Running_Animation 2_1154
+  - first:
+      213: -4082578564336105752
+    second: Kid_Running_Animation 2_1155
+  - first:
+      213: 4210058068094054829
+    second: Kid_Running_Animation 2_1156
+  - first:
+      213: -1009878249149975488
+    second: Kid_Running_Animation 2_1157
+  - first:
+      213: -6253109435073308145
+    second: Kid_Running_Animation 2_1158
+  - first:
+      213: -4172889543929753114
+    second: Kid_Running_Animation 2_1159
+  - first:
+      213: 537436669336093693
+    second: Kid_Running_Animation 2_1160
+  - first:
+      213: -5381424037726885417
+    second: Kid_Running_Animation 2_1161
+  - first:
+      213: -8944071115465412514
+    second: Kid_Running_Animation 2_1162
+  - first:
+      213: 8274923475525445495
+    second: Kid_Running_Animation 2_1163
+  - first:
+      213: 1061099026123132095
+    second: Kid_Running_Animation 2_1164
+  - first:
+      213: 2237320875759101071
+    second: Kid_Running_Animation 2_1165
+  - first:
+      213: -7716904707136968955
+    second: Kid_Running_Animation 2_1166
+  - first:
+      213: -6966218676648951515
+    second: Kid_Running_Animation 2_1167
+  - first:
+      213: -713035526216592252
+    second: Kid_Running_Animation 2_1168
+  - first:
+      213: -4249480005056100648
+    second: Kid_Running_Animation 2_1169
+  - first:
+      213: 6643779491835630356
+    second: Kid_Running_Animation 2_1170
+  - first:
+      213: -3749445956380796376
+    second: Kid_Running_Animation 2_1171
+  - first:
+      213: -5630830777558165695
+    second: Kid_Running_Animation 2_1172
+  - first:
+      213: 5277312389441437718
+    second: Kid_Running_Animation 2_1173
+  - first:
+      213: -4648367432747030531
+    second: Kid_Running_Animation 2_1174
+  - first:
+      213: -7156691323593807266
+    second: Kid_Running_Animation 2_1175
+  - first:
+      213: -735730452118667147
+    second: Kid_Running_Animation 2_1176
+  - first:
+      213: -2501976051780040671
+    second: Kid_Running_Animation 2_1177
+  - first:
+      213: -4274494282905625093
+    second: Kid_Running_Animation 2_1178
+  - first:
+      213: -2676674709457570474
+    second: Kid_Running_Animation 2_1179
+  - first:
+      213: 596510949185638387
+    second: Kid_Running_Animation 2_1180
+  - first:
+      213: 4156656767940841716
+    second: Kid_Running_Animation 2_1181
+  - first:
+      213: -5088292896163690156
+    second: Kid_Running_Animation 2_1182
+  - first:
+      213: -9184142819375523677
+    second: Kid_Running_Animation 2_1183
+  - first:
+      213: -7599887159706128073
+    second: Kid_Running_Animation 2_1184
+  - first:
+      213: -8696699855575590449
+    second: Kid_Running_Animation 2_1185
+  - first:
+      213: -1473505828913474939
+    second: Kid_Running_Animation 2_1186
+  - first:
+      213: -8606752629551541528
+    second: Kid_Running_Animation 2_1187
+  - first:
+      213: -5879509423698490119
+    second: Kid_Running_Animation 2_1188
+  - first:
+      213: -3094850323472590543
+    second: Kid_Running_Animation 2_1189
+  - first:
+      213: -5995361363080210790
+    second: Kid_Running_Animation 2_1190
+  - first:
+      213: -6875981323873852924
+    second: Kid_Running_Animation 2_1191
+  - first:
+      213: -9009696184645807258
+    second: Kid_Running_Animation 2_1192
+  - first:
+      213: -5490953724319780206
+    second: Kid_Running_Animation 2_1193
+  - first:
+      213: -2256484418259591854
+    second: Kid_Running_Animation 2_1194
+  - first:
+      213: 3970989884061218335
+    second: Kid_Running_Animation 2_1195
+  - first:
+      213: -7749932831984898808
+    second: Kid_Running_Animation 2_1196
+  - first:
+      213: 1046167394001078044
+    second: Kid_Running_Animation 2_1197
+  - first:
+      213: 8604457687760510464
+    second: Kid_Running_Animation 2_1198
+  - first:
+      213: -4699338692396429241
+    second: Kid_Running_Animation 2_1199
+  - first:
+      213: -1541310739257700728
+    second: Kid_Running_Animation 2_1200
+  - first:
+      213: 4698224848712208650
+    second: Kid_Running_Animation 2_1201
+  - first:
+      213: -3677462433497863911
+    second: Kid_Running_Animation 2_1202
+  - first:
+      213: -1871138787250991874
+    second: Kid_Running_Animation 2_1203
+  - first:
+      213: 8085259806060713288
+    second: Kid_Running_Animation 2_1204
+  - first:
+      213: -6300544883851272779
+    second: Kid_Running_Animation 2_1205
+  - first:
+      213: 7411529981497618999
+    second: Kid_Running_Animation 2_1206
+  - first:
+      213: -8048766778550221651
+    second: Kid_Running_Animation 2_1207
+  - first:
+      213: 7152945250091862719
+    second: Kid_Running_Animation 2_1208
+  - first:
+      213: 4352487711991129937
+    second: Kid_Running_Animation 2_1209
+  - first:
+      213: -4767480714925032209
+    second: Kid_Running_Animation 2_1210
+  - first:
+      213: 3363957935619607685
+    second: Kid_Running_Animation 2_1211
+  - first:
+      213: -3615870883332697762
+    second: Kid_Running_Animation 2_1212
+  - first:
+      213: 6780152478261436948
+    second: Kid_Running_Animation 2_1213
+  - first:
+      213: -3770645887963631498
+    second: Kid_Running_Animation 2_1214
+  - first:
+      213: -5140450710337722427
+    second: Kid_Running_Animation 2_1215
+  - first:
+      213: -9035020642446165966
+    second: Kid_Running_Animation 2_1216
+  - first:
+      213: 222915840267982457
+    second: Kid_Running_Animation 2_1217
+  - first:
+      213: 8938379813288242514
+    second: Kid_Running_Animation 2_1218
+  - first:
+      213: -3682212040093950693
+    second: Kid_Running_Animation 2_1219
+  - first:
+      213: -7527262832900675240
+    second: Kid_Running_Animation 2_1220
+  - first:
+      213: -6494505347963591356
+    second: Kid_Running_Animation 2_1221
+  - first:
+      213: 3704547383913526308
+    second: Kid_Running_Animation 2_1222
+  - first:
+      213: 7518397523874011304
+    second: Kid_Running_Animation 2_1223
+  - first:
+      213: 415254273475302962
+    second: Kid_Running_Animation 2_1224
+  - first:
+      213: -6570001396243677181
+    second: Kid_Running_Animation 2_1225
+  - first:
+      213: -6739754454887081186
+    second: Kid_Running_Animation 2_1226
+  - first:
+      213: -4369471449031390187
+    second: Kid_Running_Animation 2_1227
+  - first:
+      213: -1773227794142904627
+    second: Kid_Running_Animation 2_1228
+  - first:
+      213: 2000517330731664589
+    second: Kid_Running_Animation 2_1229
+  - first:
+      213: -4801654528490150425
+    second: Kid_Running_Animation 2_1230
+  - first:
+      213: 3002911684355521131
+    second: Kid_Running_Animation 2_1231
+  - first:
+      213: 8864499495788621565
+    second: Kid_Running_Animation 2_1232
+  - first:
+      213: -1102218925509532646
+    second: Kid_Running_Animation 2_1233
+  - first:
+      213: 8127902127788590357
+    second: Kid_Running_Animation 2_1234
+  - first:
+      213: 2622994209767202933
+    second: Kid_Running_Animation 2_1235
+  - first:
+      213: 417407574499146033
+    second: Kid_Running_Animation 2_1236
+  - first:
+      213: 7904932576502726416
+    second: Kid_Running_Animation 2_1237
+  - first:
+      213: 2586104815770489272
+    second: Kid_Running_Animation 2_1238
+  - first:
+      213: 8892327164109876649
+    second: Kid_Running_Animation 2_1239
+  - first:
+      213: -3957562402745076771
+    second: Kid_Running_Animation 2_1240
+  - first:
+      213: 984220886902566493
+    second: Kid_Running_Animation 2_1241
+  - first:
+      213: -3674926240225181772
+    second: Kid_Running_Animation 2_1242
+  - first:
+      213: 8006325146072873555
+    second: Kid_Running_Animation 2_1243
+  - first:
+      213: -7413348798718770057
+    second: Kid_Running_Animation 2_1244
+  - first:
+      213: 5594059270893355028
+    second: Kid_Running_Animation 2_1245
+  - first:
+      213: 103073101658384655
+    second: Kid_Running_Animation 2_1246
+  - first:
+      213: -8073727350659213705
+    second: Kid_Running_Animation 2_1247
+  - first:
+      213: 6349858134938960621
+    second: Kid_Running_Animation 2_1248
+  - first:
+      213: 2061204066888823543
+    second: Kid_Running_Animation 2_1249
+  - first:
+      213: -3956114336774940198
+    second: Kid_Running_Animation 2_1250
+  - first:
+      213: 848766272246502526
+    second: Kid_Running_Animation 2_1251
+  - first:
+      213: 3635650549266330153
+    second: Kid_Running_Animation 2_1252
+  - first:
+      213: -672368887281134006
+    second: Kid_Running_Animation 2_1253
+  - first:
+      213: 11882029116235974
+    second: Kid_Running_Animation 2_1254
+  - first:
+      213: 3154121758226645627
+    second: Kid_Running_Animation 2_1255
+  - first:
+      213: -386881017423211856
+    second: Kid_Running_Animation 2_1256
+  - first:
+      213: 2974386085087742212
+    second: Kid_Running_Animation 2_1257
+  - first:
+      213: -7205895400344793084
+    second: Kid_Running_Animation 2_1258
+  - first:
+      213: -3494125552348324187
+    second: Kid_Running_Animation 2_1259
+  - first:
+      213: -7534042175392175737
+    second: Kid_Running_Animation 2_1260
+  - first:
+      213: -1834201756794508515
+    second: Kid_Running_Animation 2_1261
+  - first:
+      213: 4241356919109641738
+    second: Kid_Running_Animation 2_1262
+  - first:
+      213: 2244403074807956432
+    second: Kid_Running_Animation 2_1263
+  - first:
+      213: 3507666520101643120
+    second: Kid_Running_Animation 2_1264
+  - first:
+      213: 5722576941405706045
+    second: Kid_Running_Animation 2_1265
+  - first:
+      213: 4850816996472686324
+    second: Kid_Running_Animation 2_1266
+  - first:
+      213: -3991214750287590729
+    second: Kid_Running_Animation 2_1267
+  - first:
+      213: -3885144043706256965
+    second: Kid_Running_Animation 2_1268
+  - first:
+      213: 5277727379242467727
+    second: Kid_Running_Animation 2_1269
+  - first:
+      213: 6610612919104663183
+    second: Kid_Running_Animation 2_1270
+  - first:
+      213: 8643283103612062307
+    second: Kid_Running_Animation 2_1271
+  - first:
+      213: -7767806760808383132
+    second: Kid_Running_Animation 2_1272
+  - first:
+      213: 666109086190144930
+    second: Kid_Running_Animation 2_1273
+  - first:
+      213: 9004935594959556849
+    second: Kid_Running_Animation 2_1274
+  - first:
+      213: -5979824777458934363
+    second: Kid_Running_Animation 2_1275
+  - first:
+      213: 8420520996096681513
+    second: Kid_Running_Animation 2_1276
+  - first:
+      213: 3129770717460505542
+    second: Kid_Running_Animation 2_1277
+  - first:
+      213: 4409455252641397242
+    second: Kid_Running_Animation 2_1278
+  - first:
+      213: 4841213829112837185
+    second: Kid_Running_Animation 2_1279
+  - first:
+      213: 2424552910377756943
+    second: Kid_Running_Animation 2_1280
+  - first:
+      213: -3996128910063264956
+    second: Kid_Running_Animation 2_1281
+  - first:
+      213: 2382780888871619935
+    second: Kid_Running_Animation 2_1282
+  - first:
+      213: -8139084954440468957
+    second: Kid_Running_Animation 2_1283
+  - first:
+      213: 3731300061289548071
+    second: Kid_Running_Animation 2_1284
+  - first:
+      213: -8211899063142008188
+    second: Kid_Running_Animation 2_1285
+  - first:
+      213: -1532457029172507349
+    second: Kid_Running_Animation 2_1286
+  - first:
+      213: -3363812494348371157
+    second: Kid_Running_Animation 2_1287
+  - first:
+      213: -5344882913508964366
+    second: Kid_Running_Animation 2_1288
+  - first:
+      213: -3684346794452030701
+    second: Kid_Running_Animation 2_1289
+  - first:
+      213: -5943447862309936272
+    second: Kid_Running_Animation 2_1290
+  - first:
+      213: 21281208024951105
+    second: Kid_Running_Animation 2_1291
+  - first:
+      213: 964196028884687705
+    second: Kid_Running_Animation 2_1292
+  - first:
+      213: -2076335021220728685
+    second: Kid_Running_Animation 2_1293
+  - first:
+      213: -4656668847086982015
+    second: Kid_Running_Animation 2_1294
+  - first:
+      213: 2747038265984442990
+    second: Kid_Running_Animation 2_1295
+  - first:
+      213: 329017756434579800
+    second: Kid_Running_Animation 2_1296
+  - first:
+      213: -1020368679900345636
+    second: Kid_Running_Animation 2_1297
+  - first:
+      213: -5701186478249029775
+    second: Kid_Running_Animation 2_1298
+  - first:
+      213: 3760306672937975617
+    second: Kid_Running_Animation 2_1299
+  - first:
+      213: -3412818780446038731
+    second: Kid_Running_Animation 2_1300
+  - first:
+      213: -8708681018055754945
+    second: Kid_Running_Animation 2_1301
+  - first:
+      213: -705265568536102137
+    second: Kid_Running_Animation 2_1302
+  - first:
+      213: 5848175320799095102
+    second: Kid_Running_Animation 2_1303
+  - first:
+      213: 4170692591416994505
+    second: Kid_Running_Animation 2_1304
+  - first:
+      213: 6535059237071163330
+    second: Kid_Running_Animation 2_1305
+  - first:
+      213: 5024131915269428949
+    second: Kid_Running_Animation 2_1306
+  - first:
+      213: -4778855009793046013
+    second: Kid_Running_Animation 2_1307
+  - first:
+      213: 7658996902055026747
+    second: Kid_Running_Animation 2_1308
+  - first:
+      213: 1225084415274764998
+    second: Kid_Running_Animation 2_1309
+  - first:
+      213: 7777488789964480196
+    second: Kid_Running_Animation 2_1310
+  - first:
+      213: 3755827047605620143
+    second: Kid_Running_Animation 2_1311
+  - first:
+      213: 5819683147732787888
+    second: Kid_Running_Animation 2_1312
+  - first:
+      213: 5696601300067673652
+    second: Kid_Running_Animation 2_1313
+  - first:
+      213: 7426844671797585825
+    second: Kid_Running_Animation 2_1314
+  - first:
+      213: 4686130835805691755
+    second: Kid_Running_Animation 2_1315
+  - first:
+      213: 430061930051121895
+    second: Kid_Running_Animation 2_1316
+  - first:
+      213: -886831628281130893
+    second: Kid_Running_Animation 2_1317
+  - first:
+      213: -7911883178278407930
+    second: Kid_Running_Animation 2_1318
+  - first:
+      213: -2739798286884538842
+    second: Kid_Running_Animation 2_1319
+  - first:
+      213: 8639051295930934343
+    second: Kid_Running_Animation 2_1320
+  - first:
+      213: -8779036879667837450
+    second: Kid_Running_Animation 2_1321
+  - first:
+      213: 2311805542560480267
+    second: Kid_Running_Animation 2_1322
+  - first:
+      213: -6484635975970226882
+    second: Kid_Running_Animation 2_1323
+  - first:
+      213: -8672081943901270912
+    second: Kid_Running_Animation 2_1324
+  - first:
+      213: -5589016375478889170
+    second: Kid_Running_Animation 2_1325
+  - first:
+      213: -5562130585981944014
+    second: Kid_Running_Animation 2_1326
+  - first:
+      213: -2003826638830520100
+    second: Kid_Running_Animation 2_1327
+  - first:
+      213: 4785944535050865199
+    second: Kid_Running_Animation 2_1328
+  - first:
+      213: -3071729771190960968
+    second: Kid_Running_Animation 2_1329
+  - first:
+      213: 8792774327624710952
+    second: Kid_Running_Animation 2_1330
+  - first:
+      213: -7843541111687772701
+    second: Kid_Running_Animation 2_1331
+  - first:
+      213: 8445069173989082205
+    second: Kid_Running_Animation 2_1332
+  - first:
+      213: -3443522072874380211
+    second: Kid_Running_Animation 2_1333
+  - first:
+      213: 7105991337231275209
+    second: Kid_Running_Animation 2_1334
+  - first:
+      213: 7265675976349648470
+    second: Kid_Running_Animation 2_1335
+  - first:
+      213: 1406042452473432835
+    second: Kid_Running_Animation 2_1336
+  - first:
+      213: -4715512807810226674
+    second: Kid_Running_Animation 2_1337
+  - first:
+      213: 8765619557314667524
+    second: Kid_Running_Animation 2_1338
+  - first:
+      213: -2500719795465394278
+    second: Kid_Running_Animation 2_1339
+  - first:
+      213: -1900253375881642773
+    second: Kid_Running_Animation 2_1340
+  - first:
+      213: 2175447396084518307
+    second: Kid_Running_Animation 2_1341
+  - first:
+      213: -2114916887430387579
+    second: Kid_Running_Animation 2_1342
+  - first:
+      213: 1725587167331485601
+    second: Kid_Running_Animation 2_1343
+  - first:
+      213: 7984997784184047928
+    second: Kid_Running_Animation 2_1344
+  - first:
+      213: 1645715809003401139
+    second: Kid_Running_Animation 2_1345
+  - first:
+      213: -6895634316213180873
+    second: Kid_Running_Animation 2_1346
+  - first:
+      213: -8392049566866523497
+    second: Kid_Running_Animation 2_1347
+  - first:
+      213: 1952069036821387412
+    second: Kid_Running_Animation 2_1348
+  - first:
+      213: -1743793132101225590
+    second: Kid_Running_Animation 2_1349
+  - first:
+      213: 5995658462887833335
+    second: Kid_Running_Animation 2_1350
+  - first:
+      213: 1546886716659783146
+    second: Kid_Running_Animation 2_1351
+  - first:
+      213: 8775333084545594803
+    second: Kid_Running_Animation 2_1352
+  - first:
+      213: 3880255535721505062
+    second: Kid_Running_Animation 2_1353
+  - first:
+      213: 5767844252916126714
+    second: Kid_Running_Animation 2_1354
+  - first:
+      213: -8544008223101938920
+    second: Kid_Running_Animation 2_1355
+  - first:
+      213: 3318637388791221286
+    second: Kid_Running_Animation 2_1356
+  - first:
+      213: -5692291299332178338
+    second: Kid_Running_Animation 2_1357
+  - first:
+      213: 1702367251798619131
+    second: Kid_Running_Animation 2_1358
+  - first:
+      213: -1297181470598155362
+    second: Kid_Running_Animation 2_1359
+  - first:
+      213: 5436021623019886012
+    second: Kid_Running_Animation 2_1360
+  - first:
+      213: 6502176988659594592
+    second: Kid_Running_Animation 2_1361
+  - first:
+      213: 3963469817759386078
+    second: Kid_Running_Animation 2_1362
+  - first:
+      213: 123214075407693734
+    second: Kid_Running_Animation 2_1363
+  - first:
+      213: -3189476778524281120
+    second: Kid_Running_Animation 2_1364
+  - first:
+      213: 4948384988339995255
+    second: Kid_Running_Animation 2_1365
+  - first:
+      213: -1549899010565247366
+    second: Kid_Running_Animation 2_1366
+  - first:
+      213: 3223124525802087978
+    second: Kid_Running_Animation 2_1367
+  - first:
+      213: 5785178278903276157
+    second: Kid_Running_Animation 2_1368
+  - first:
+      213: 6398912034543071701
+    second: Kid_Running_Animation 2_1369
+  - first:
+      213: 7372576975999989146
+    second: Kid_Running_Animation 2_1370
+  - first:
+      213: 8042293215822439113
+    second: Kid_Running_Animation 2_1371
+  - first:
+      213: -2232220596603293369
+    second: Kid_Running_Animation 2_1372
+  - first:
+      213: -1528482991487278586
+    second: Kid_Running_Animation 2_1373
+  - first:
+      213: -2458826574114341474
+    second: Kid_Running_Animation 2_1374
+  - first:
+      213: 5560248441423357843
+    second: Kid_Running_Animation 2_1375
+  - first:
+      213: -8532059506849439013
+    second: Kid_Running_Animation 2_1376
+  - first:
+      213: 517860186450831668
+    second: Kid_Running_Animation 2_1377
+  - first:
+      213: -8562018658988360027
+    second: Kid_Running_Animation 2_1378
+  - first:
+      213: -622344598187464571
+    second: Kid_Running_Animation 2_1379
+  - first:
+      213: 877008501662950689
+    second: Kid_Running_Animation 2_1380
+  - first:
+      213: 8186241263615064863
+    second: Kid_Running_Animation 2_1381
+  - first:
+      213: -6683080809168776202
+    second: Kid_Running_Animation 2_1382
+  - first:
+      213: 6167726182380067814
+    second: Kid_Running_Animation 2_1383
+  - first:
+      213: 5692505604408890085
+    second: Kid_Running_Animation 2_1384
+  - first:
+      213: 2256247884656612503
+    second: Kid_Running_Animation 2_1385
+  - first:
+      213: -1198229361609132122
+    second: Kid_Running_Animation 2_1386
+  - first:
+      213: -3999807732006617613
+    second: Kid_Running_Animation 2_1387
+  - first:
+      213: -8391196421018252213
+    second: Kid_Running_Animation 2_1388
+  - first:
+      213: 7585476796442098254
+    second: Kid_Running_Animation 2_1389
+  - first:
+      213: -3883590512712635436
+    second: Kid_Running_Animation 2_1390
+  - first:
+      213: -4712912958460642035
+    second: Kid_Running_Animation 2_1391
+  - first:
+      213: 8410874617747644577
+    second: Kid_Running_Animation 2_1392
+  - first:
+      213: -2773690357399360983
+    second: Kid_Running_Animation 2_1393
+  - first:
+      213: 2771691185763771053
+    second: Kid_Running_Animation 2_1394
+  - first:
+      213: 671703433673811058
+    second: Kid_Running_Animation 2_1395
+  - first:
+      213: 1812071301475592888
+    second: Kid_Running_Animation 2_1396
+  - first:
+      213: 7247823269539409192
+    second: Kid_Running_Animation 2_1397
+  - first:
+      213: 9146463588129865207
+    second: Kid_Running_Animation 2_1398
+  - first:
+      213: 8530369016919541089
+    second: Kid_Running_Animation 2_1399
+  - first:
+      213: -6553932677021948562
+    second: Kid_Running_Animation 2_1400
+  - first:
+      213: -1340166540334581768
+    second: Kid_Running_Animation 2_1401
+  - first:
+      213: 1744350486234192084
+    second: Kid_Running_Animation 2_1402
+  - first:
+      213: -4745172406171349764
+    second: Kid_Running_Animation 2_1403
+  - first:
+      213: 3986555548505281077
+    second: Kid_Running_Animation 2_1404
+  - first:
+      213: 1337971816348526279
+    second: Kid_Running_Animation 2_1405
+  - first:
+      213: -7974563931447082649
+    second: Kid_Running_Animation 2_1406
+  - first:
+      213: -6493499925074148356
+    second: Kid_Running_Animation 2_1407
+  - first:
+      213: 3377541439695076837
+    second: Kid_Running_Animation 2_1408
+  - first:
+      213: 6598299571692009638
+    second: Kid_Running_Animation 2_1409
+  - first:
+      213: 8627288166409303030
+    second: Kid_Running_Animation 2_1410
+  - first:
+      213: -4194249274381085231
+    second: Kid_Running_Animation 2_1411
+  - first:
+      213: 5832353848657949081
+    second: Kid_Running_Animation 2_1412
+  - first:
+      213: 6172365696889005407
+    second: Kid_Running_Animation 2_1413
+  - first:
+      213: -6644452316230772478
+    second: Kid_Running_Animation 2_1414
+  - first:
+      213: -8111194071778577926
+    second: Kid_Running_Animation 2_1415
+  - first:
+      213: -6454271583556233710
+    second: Kid_Running_Animation 2_1416
+  - first:
+      213: 2805207663884577724
+    second: Kid_Running_Animation 2_1417
+  - first:
+      213: -7015953882816278871
+    second: Kid_Running_Animation 2_1418
+  - first:
+      213: -4901981244065306771
+    second: Kid_Running_Animation 2_1419
+  - first:
+      213: 1781519643604393017
+    second: Kid_Running_Animation 2_1420
+  - first:
+      213: 5353284595141476030
+    second: Kid_Running_Animation 2_1421
+  - first:
+      213: 5140034257185802185
+    second: Kid_Running_Animation 2_1422
+  - first:
+      213: 8903230960001981922
+    second: Kid_Running_Animation 2_1423
+  - first:
+      213: -5444445121922356934
+    second: Kid_Running_Animation 2_1424
+  - first:
+      213: 4975648147318416655
+    second: Kid_Running_Animation 2_1425
+  - first:
+      213: 883989052741783210
+    second: Kid_Running_Animation 2_1426
+  - first:
+      213: 5005351559102625839
+    second: Kid_Running_Animation 2_1427
+  - first:
+      213: -5149114460105205709
+    second: Kid_Running_Animation 2_1428
+  - first:
+      213: 6983962529800134697
+    second: Kid_Running_Animation 2_1429
+  - first:
+      213: 3520027352139241423
+    second: Kid_Running_Animation 2_1430
+  - first:
+      213: 9130215607687160678
+    second: Kid_Running_Animation 2_1431
+  - first:
+      213: -3155727323540649155
+    second: Kid_Running_Animation 2_1432
+  - first:
+      213: -6760614415660084113
+    second: Kid_Running_Animation 2_1433
+  - first:
+      213: -4536137828692276252
+    second: Kid_Running_Animation 2_1434
+  - first:
+      213: 6970478027229969417
+    second: Kid_Running_Animation 2_1435
+  - first:
+      213: -6508131287878810171
+    second: Kid_Running_Animation 2_1436
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kid_Running_Animation 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8177104be359e5e0800000000000000
+      internalID: -1879879099592773236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid_Running_Animation 2_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6903c217c4057ea0800000000000000
+      internalID: -5875784885775169174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid_Running_Animation 2_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91976ece3271452a0800000000000000
+      internalID: -6749744498455709415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid_Running_Animation 2_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7d026ff37e55a00800000000000000
+      internalID: 744755575297988601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

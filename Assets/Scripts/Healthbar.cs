@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Healthbar : MonoBehaviour
 {
@@ -21,6 +22,14 @@ public class Healthbar : MonoBehaviour
     public void decreaseNumHearts(float amount)
     {
         StartCoroutine(decreaseNumHeartsCoroutine(amount));
+    }
+
+    private void Update()
+    {
+        if (currHearts <= 0)
+        {
+            SceneManager.LoadScene("Main");
+        }
     }
 
     private IEnumerator decreaseNumHeartsCoroutine(float amount)

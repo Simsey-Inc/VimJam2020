@@ -3,13 +3,14 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class BookFlipping : MonoBehaviour
+public class CreditsToMenu : MonoBehaviour
 {
+
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            SceneManager.LoadScene("Main");
+            SceneManager.LoadScene("MainMenu");
         }
     }
 }

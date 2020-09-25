@@ -8,6 +8,8 @@ TagManager:
   - Death_Zone
   - Enemy
   - BatteryPickup
+  - SwordPickup
+  - Exit
   layers:
   - Default
   - TransparentFX
