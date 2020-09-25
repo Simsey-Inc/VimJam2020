@@ -42,6 +42,7 @@ public class PlayerMovement : MonoBehaviour
 
     public bool IsGrounded { get => isGrounded; set => isGrounded = value; }
     public bool IsLocked { get => isLocked; set => isLocked = value; }
+    public bool FacingRight { get => facingRight; set => facingRight = value; }
     #endregion
 
 
@@ -91,13 +92,13 @@ public class PlayerMovement : MonoBehaviour
             rb.velocity = new Vector2(-maxMoveSpeed, rb.velocity.y);
         }
 
-        if (movementX > 0 && !facingRight)
+        if (movementX > 0 && !FacingRight)
         {
             // ... flip the player.
             Flip();
         }
         // Otherwise if the input is moving the player left and the player is facing right...
-        else if (movementX < 0 && facingRight)
+        else if (movementX < 0 && FacingRight)
         {
             // ... flip the player.
             Flip();
@@ -128,7 +129,7 @@ public class PlayerMovement : MonoBehaviour
 
     private void Flip()
     {
-        facingRight = !facingRight;
+        FacingRight = !FacingRight;
 
         Vector3 theScale = transform.localScale;
         theScale.x *= -1;

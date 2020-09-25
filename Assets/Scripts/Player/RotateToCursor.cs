@@ -16,6 +16,9 @@ public class RotateToCursor : MonoBehaviour
 
     [SerializeField]
     private float maxRotationDown;
+
+    [SerializeField]
+    private PlayerMovement playerMovement;
     #endregion
 
     #region Private Variables
@@ -32,8 +35,6 @@ public class RotateToCursor : MonoBehaviour
     private void Update()
     {
         float amountToRotate = Mathf.Clamp(flashlightRotationSensitivity * Input.GetAxis("Mouse Y") * Time.deltaTime, maxRotationDown / 4, maxRotationUp / 4);
-        Debug.Log("Amount to Rotate:" + amountToRotate);
-        Debug.Log("Current Rotation: " + currRotation);
         if (currRotation + amountToRotate >= maxRotationUp)
         {
             amountToRotate = maxRotationUp - currRotation;
@@ -43,7 +44,15 @@ public class RotateToCursor : MonoBehaviour
             amountToRotate = maxRotationDown - currRotation;
         }
         currRotation += amountToRotate;
-        transform.RotateAround(shoulderTransform.position, Vector3.forward, amountToRotate);
+        if (playerMovement.FacingRight)
+        {
+            transform.RotateAround(shoulderTransform.position, Vector3.forward, amountToRotate);
+        }
+        else
+        {
+             transform.RotateAround(shoulderTransform.position, Vector3.forward, -amountToRotate);
+        }
+        
     }
 
     
