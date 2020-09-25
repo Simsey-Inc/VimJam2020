@@ -10,7 +10,7 @@ public class UIText1 : MonoBehaviour
     int currentMessage;
     string[] allText = new string[]
         {
-            "And thus ends the tale of Ramon, his imagination grand, and his dreams grander. We hope you enjoyed playing as much as we enjoyed making!"
+            "With his grand imagination, Ramon collected Haydrea and escaped Cave Lark all in one piece. We hope you enjoyed playing as much as we enjoyed making!"
         };
 
     private void Awake()

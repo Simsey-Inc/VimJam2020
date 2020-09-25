@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class BookFlipping : MonoBehaviour
 {
@@ -15,8 +16,7 @@ public class BookFlipping : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            pageNum++;
-            animator.SetInteger("NextPage", pageNum);
+            SceneManager.LoadScene("Main");
         }
     }
 }
