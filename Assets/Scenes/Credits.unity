@@ -155,7 +155,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -224, y: -24}
+  m_AnchoredPosition: {x: -274, y: -38}
   m_SizeDelta: {x: -636.6, y: 22.76707}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &502788464
@@ -236,7 +236,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.2735849, g: 0.2735849, b: 0.2735849, a: 1}
+  m_BackGroundColor: {r: 0.08770915, g: 0.15574937, b: 0.254717, a: 1}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -462,7 +462,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 901477550}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.026, y: 0.005, z: 0}
+  m_LocalPosition: {x: -0.22, y: 0.005, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -514,8 +514,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 233, y: -114}
-  m_SizeDelta: {x: -484.8401, y: 212.5}
+  m_AnchoredPosition: {x: 328, y: -114}
+  m_SizeDelta: {x: -670.89, y: 212.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1289333379
 MonoBehaviour:
@@ -550,7 +550,7 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: "Music:\nDreamer by Hazy\r\nhttps://soundcloud.com/hazy_music \r\nMusic
-    provided by \t\t\thttps://www.plugnplaymusic.net"
+    provided by \t\t\thttps://www.plugnplaymusic.net\n\nhttps://www.youtube.com/watch?v=JoRRmX7sLfs&ab_channel=MattiaCupelli"
 --- !u!222 &1289333380
 CanvasRenderer:
   m_ObjectHideFlags: 0
