@@ -12,8 +12,7 @@ public class UIText : MonoBehaviour
 
     string[] allText = new string[]
         {
-            "A foreign tale speaks of a terryfing cave, known as Cave Lark."
-            ,"It is said that the sword of Haydrea, once wielded by the greatest of men, resides in this cave.",
+            "Cave Lark is known by many as one of the most dangerous caves in the world. Only a few men have been able to enter the cave and return unscathed. It is said that the sword of Haydrea, once wielded by the greatest of men, resides in this cave. This sword drives many explorers to delve into the depths of the cave in an attempt to collect the relic.",
         };
 
     private void Awake()
@@ -21,31 +20,6 @@ public class UIText : MonoBehaviour
         messageText = transform.Find("messageText").GetComponent<Text>();
 
         TextWriter.AddWriter_Static(messageText, allText[currentMessage], 0.1f, true);
-    }
 
-    private void Update()
-    {
-        if (Input.GetKey(KeyCode.Space))
-        {
-            currentMessage++;
-        }
-
-        if (currentMessage == 1)
-        {
-            NextPage();
-            currentMessage++;
-        }
-
-        if (currentMessage > 2)
-        {
-            //SceneManager.LoadScene("SampleScene");
-        }
-    }
-
-    private void NextPage()
-    {
-        messageText = transform.Find("messageText").GetComponent<Text>();
-
-        TextWriter.AddWriter_Static(messageText, allText[1], 0.1f, true);
     }
 }
