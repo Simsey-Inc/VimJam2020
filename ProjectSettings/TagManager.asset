@@ -19,7 +19,7 @@ TagManager:
   - 
   - CameraBounds
   - Ground
-  - 
+  - Spikes
   - 
   - 
   - 
@@ -59,4 +59,7 @@ TagManager:
     locked: 0
   - name: UI
     uniqueID: 468965157
+    locked: 0
+  - name: Spikes
+    uniqueID: 3821612973
     locked: 0

@@ -19,7 +19,7 @@ public class UIText : MonoBehaviour
     {
         messageText = transform.Find("messageText").GetComponent<Text>();
 
-        TextWriter.AddWriter_Static(messageText, allText[currentMessage], 0.1f, true);
+        TextWriter.AddWriter_Static(messageText, allText[currentMessage], 0.05f, true);
 
     }
 }
