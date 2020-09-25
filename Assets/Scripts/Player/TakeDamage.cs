@@ -50,8 +50,6 @@ public class TakeDamage : MonoBehaviour
 
     private IEnumerator Knockback(float duration, float power, Vector3 direction, bool enemyInFront) 
     {
-        float timer = 0;
-
         playerMovement.IsLocked = true;
 
         if (enemyInFront) {
@@ -65,14 +63,12 @@ public class TakeDamage : MonoBehaviour
         yield return new WaitForSeconds(duration);
 
         playerMovement.IsLocked = false;
-
-        yield return 0;
     }
 
     private void takeDamage(bool enemyInFront)
     {
         hitAnimation = true;
         healthbar.GetComponent<Healthbar>().decreaseNumHearts(0.5f);
-        StartCoroutine(Knockback(0.05f, 200, transform.position, enemyInFront));
+        StartCoroutine(Knockback(0.15f, 125, transform.position, enemyInFront));
     }
 }
