@@ -133,7 +133,7 @@ GameObject:
   - component: {fileID: 502788465}
   - component: {fileID: 502788464}
   m_Layer: 5
-  m_Name: Text
+  m_Name: First Song
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -492,7 +492,7 @@ GameObject:
   - component: {fileID: 1289333380}
   - component: {fileID: 1289333379}
   m_Layer: 5
-  m_Name: Text (1)
+  m_Name: Second Song
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
