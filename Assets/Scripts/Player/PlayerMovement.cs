@@ -23,6 +23,8 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField]
     private Animator animator;
 
+    [SerializeField]
+    private List<AudioSource> playerSounds;
     #endregion
 
     #region Components
@@ -44,6 +46,8 @@ public class PlayerMovement : MonoBehaviour
     public bool IsLocked { get => isLocked; set => isLocked = value; }
     public bool FacingRight { get => facingRight; set => facingRight = value; }
     #endregion
+
+    
 
     private void Start()
     {
@@ -105,7 +109,7 @@ public class PlayerMovement : MonoBehaviour
 
     private void Jump()
     {
-        
+        playerSounds[0].Play();
         numJumps--;
         rb.velocity = new Vector2(rb.velocity.x, 0);
         rb.AddForce(new Vector2(0, jumpForce));
