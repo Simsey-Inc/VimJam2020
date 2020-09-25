@@ -133,7 +133,7 @@ GameObject:
   - component: {fileID: 502788465}
   - component: {fileID: 502788464}
   m_Layer: 5
-  m_Name: First Song
+  m_Name: Space
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -492,7 +492,7 @@ GameObject:
   - component: {fileID: 1289333380}
   - component: {fileID: 1289333379}
   m_Layer: 5
-  m_Name: Second Song
+  m_Name: MusicCreds
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -514,8 +514,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 328, y: -114}
-  m_SizeDelta: {x: -670.89, y: 212.5}
+  m_AnchoredPosition: {x: 331.72, y: -207.5}
+  m_SizeDelta: {x: -663.44104, y: 399.58264}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1289333379
 MonoBehaviour:
@@ -549,8 +549,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Music:\nDreamer by Hazy\r\nhttps://soundcloud.com/hazy_music \r\nMusic
-    provided by \t\t\thttps://www.plugnplaymusic.net\n\nhttps://www.youtube.com/watch?v=JoRRmX7sLfs&ab_channel=MattiaCupelli"
+  m_Text: "Music / Sound\n\n\"Art of Silence - by Uniq\" is under a Creative Commons
+    license (Creative Commons \u2013 International Recognition 4.0 \u2013 CC BY 4.0)\n\nhttps://www.youtube.com/watch?v=JoRRmX7sLfs&ab_channel=MattiaCupelli\n\nhttps://www.kenney.nl/assets/impact-sounds"
 --- !u!222 &1289333380
 CanvasRenderer:
   m_ObjectHideFlags: 0

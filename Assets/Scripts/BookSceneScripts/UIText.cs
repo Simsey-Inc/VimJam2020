@@ -12,7 +12,7 @@ public class UIText : MonoBehaviour
 
     string[] allText = new string[]
         {
-            "Cave Lark is known by many as one of the most dangerous caves in the world. Only a few men have been able to enter the cave and return unscathed. It is said that the sword of Haydrea, once wielded by the greatest of men, resides in this cave. This sword drives many explorers to delve into the depths of the cave in an attempt to collect the relic.",
+            "Cave Lark is known by many as one of the most dangerous caves in the world. Only a few men have been able to enter the cave and return unscathed. It is said that the sword of Haydrea, once wielded by the greatest of men, resides there. This sword drives many explorers to delve into the depths of the cave in an attempt to collect the relic.",
         };
 
     private void Awake()

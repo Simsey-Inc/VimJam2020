@@ -97,7 +97,7 @@ public class PlayerMovement : MonoBehaviour
         if (Mathf.Abs(moveForce * movementX) > 0 && !playerSounds[1].isPlaying && isGrounded)
         {
             if (Random.Range(0,8) < 1) {
-                playerSounds[1].volume = Random.Range(0.01f, 0.02f);
+                playerSounds[1].volume = Random.Range(0.1f, 0.2f);
                 playerSounds[1].pitch = Random.Range(0.7f, 1.1f);
                 playerSounds[1].Play();
             }
