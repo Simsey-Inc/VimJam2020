@@ -54,18 +54,15 @@ public class TakeDamage : MonoBehaviour
 
         playerMovement.IsLocked = true;
 
-        while (duration > timer)
-        {
-            yield return new WaitForFixedUpdate();
-            timer += Time.deltaTime;
-            if (enemyInFront) {
-                rb2d.AddForce(new Vector2(-direction.x * power, 25));
-            }
-            else
-            {
-                rb2d.AddForce(new Vector2(direction.x * power, 25));
-            }
+        if (enemyInFront) {
+            rb2d.AddForce(new Vector2(-direction.x * power, 200));
         }
+        else
+        {
+            rb2d.AddForce(new Vector2(direction.x * power, 200));
+        }
+
+        yield return new WaitForSeconds(duration);
 
         playerMovement.IsLocked = false;
 
@@ -76,6 +73,6 @@ public class TakeDamage : MonoBehaviour
     {
         hitAnimation = true;
         healthbar.GetComponent<Healthbar>().decreaseNumHearts(0.5f);
-        StartCoroutine(Knockback(0.05f, 50, transform.position, enemyInFront));
+        StartCoroutine(Knockback(0.05f, 200, transform.position, enemyInFront));
     }
 }
