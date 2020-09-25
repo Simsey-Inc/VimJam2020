@@ -16,19 +16,23 @@ public class MusicManager : MonoBehaviour
     private AudioSource currentlyPlaying;
     #endregion
 
+    private static GameObject musicManager;
+
     private void Awake()
     {
-        music[0].Play();
-        currentlyPlaying = music[0];
-        DontDestroyOnLoad(gameObject);
-    }
-
-    private void Start()
-    {
-        if (GameObject.FindGameObjectsWithTag("MusicManager").Length > 1)
+        if (musicManager == null)
+        {
+            musicManager = gameObject;
+        }
+        else
         {
             Destroy(gameObject);
         }
+        DontDestroyOnLoad(gameObject);
+
+        music[0].Play();
+        currentlyPlaying = music[0];
+
     }
 
     public void PlayMainSong()

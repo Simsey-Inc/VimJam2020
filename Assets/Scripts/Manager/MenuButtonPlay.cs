@@ -5,10 +5,14 @@ using UnityEngine.SceneManagement;
 
 public class MenuButtonPlay : MonoBehaviour
 {
-    #region Editor Variables
-    [SerializeField]
-    private MusicManager musicManager;
+    #region Private Variables
+    MusicManager musicManager;
     #endregion
+
+    private void Start()
+    {
+        musicManager = GameObject.FindGameObjectWithTag("MusicManager").GetComponent<MusicManager>();
+    }
 
     public void PlayGame()
     {
