@@ -28,7 +28,7 @@ public class FeetOnTriggers : MonoBehaviour
 
         if (other.tag.Equals("Death_Zone"))
         {
-            SceneManager.LoadScene("Main");
+            SceneManager.LoadScene("GameOver");
         }
     }
 
