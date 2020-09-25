@@ -25,7 +25,7 @@ public class PickupHandler : MonoBehaviour
     private float amtIncreaseIntensity;
 
     #endregion
-    
+
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.tag.Equals("BatteryPickup")) {
@@ -36,5 +36,6 @@ public class PickupHandler : MonoBehaviour
             flashlight.intensity += amtIncreaseIntensity;
             Destroy(other.gameObject);
         }
+
     }
 }
