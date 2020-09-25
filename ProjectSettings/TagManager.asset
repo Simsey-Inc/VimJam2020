@@ -10,6 +10,7 @@ TagManager:
   - BatteryPickup
   - SwordPickup
   - Exit
+  - MusicManager
   layers:
   - Default
   - TransparentFX

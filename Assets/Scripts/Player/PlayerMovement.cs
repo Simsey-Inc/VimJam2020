@@ -94,6 +94,16 @@ public class PlayerMovement : MonoBehaviour
             rb.velocity = new Vector2(-maxMoveSpeed, rb.velocity.y);
         }
 
+        if (Mathf.Abs(moveForce * movementX) > 0 && !playerSounds[1].isPlaying && isGrounded)
+        {
+            if (Random.Range(0,8) < 1) {
+                playerSounds[1].volume = Random.Range(0.01f, 0.02f);
+                playerSounds[1].pitch = Random.Range(0.7f, 1.1f);
+                playerSounds[1].Play();
+            }
+            
+        }
+
         if (movementX > 0 && !FacingRight)
         {
             // ... flip the player.
@@ -109,6 +119,7 @@ public class PlayerMovement : MonoBehaviour
 
     private void Jump()
     {
+        playerSounds[0].Stop();
         playerSounds[0].Play();
         numJumps--;
         rb.velocity = new Vector2(rb.velocity.x, 0);
