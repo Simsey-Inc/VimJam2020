@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class FeetOnTriggers : MonoBehaviour
 {
@@ -23,6 +24,11 @@ public class FeetOnTriggers : MonoBehaviour
         if (other.tag.Equals("Environment")) {
             playerMovement.IsGrounded = true;
             playerMovement.ResetJumps();
+        }
+
+        if (other.tag.Equals("Death_Zone"))
+        {
+            SceneManager.LoadScene("Main");
         }
     }
 
