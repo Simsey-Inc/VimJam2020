@@ -24,11 +24,14 @@ public class PickupHandler : MonoBehaviour
     [SerializeField]
     private float amtIncreaseIntensity;
 
+    [SerializeField]
+    private List<AudioSource> playerSounds;
     #endregion
 
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.tag.Equals("BatteryPickup")) {
+            playerSounds[0].Play();
             flashlight.pointLightInnerAngle += amtIncreaseInnerAngle;
             flashlight.pointLightOuterAngle += amtIncreaseInnerAngle;
             flashlight.pointLightInnerRadius += amtIncreaseInnerRadius;
