@@ -6,13 +6,16 @@ public class TakeDamage : MonoBehaviour
 {
     #region Editor Variables
     [SerializeField]
-    private int maxHP;
+    private GameObject healthbar;
 
     [SerializeField]
     private string otherCollider;
 
     [SerializeField]
     private Animator animator;
+
+    [SerializeField]
+    private PlayerMovement playerMovement;
     #endregion
 
     #region Private Variables
@@ -21,8 +24,6 @@ public class TakeDamage : MonoBehaviour
 
     #region Public Variables
     public bool hitAnimation = false;
-
-    public int currentHP;
     #endregion
     
 
@@ -30,51 +31,51 @@ public class TakeDamage : MonoBehaviour
     void Start()
     {
         rb2d = gameObject.GetComponent<Rigidbody2D>();
-
-        currentHP = maxHP;
     }
 
     // Update is called once per frame
     void Update()
     {
         animator.SetBool("Hit", hitAnimation);
-
-        if (currentHP > maxHP)
-        {
-            currentHP = maxHP;
-        }
-
         hitAnimation = false;
-
-        
     }
 
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.tag.Equals(otherCollider))
         { 
-            takeDamage();
+            takeDamage(other.transform.position.x > gameObject.transform.position.x);
         }
     }
 
-    private IEnumerator Knockback(float duration, float power, Vector3 direction) 
+    private IEnumerator Knockback(float duration, float power, Vector3 direction, bool enemyInFront) 
     {
         float timer = 0;
 
+        playerMovement.IsLocked = true;
+
         while (duration > timer)
         {
+            yield return new WaitForFixedUpdate();
             timer += Time.deltaTime;
-            
-            rb2d.AddForce(new Vector2(-direction.x * power, 200));
+            if (enemyInFront) {
+                rb2d.AddForce(new Vector2(-direction.x * power, 25));
+            }
+            else
+            {
+                rb2d.AddForce(new Vector2(direction.x * power, 25));
+            }
         }
+
+        playerMovement.IsLocked = false;
 
         yield return 0;
     }
 
-    private void takeDamage()
+    private void takeDamage(bool enemyInFront)
     {
-        currentHP--;
         hitAnimation = true;
-        StartCoroutine(Knockback(0.02f, 300, transform.position));
+        healthbar.GetComponent<Healthbar>().decreaseNumHearts(0.5f);
+        StartCoroutine(Knockback(0.05f, 50, transform.position, enemyInFront));
     }
 }

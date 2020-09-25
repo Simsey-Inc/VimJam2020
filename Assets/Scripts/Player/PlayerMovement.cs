@@ -38,7 +38,10 @@ public class PlayerMovement : MonoBehaviour
 
     private bool isGrounded = false;
 
+    private bool isLocked = false;
+
     public bool IsGrounded { get => isGrounded; set => isGrounded = value; }
+    public bool IsLocked { get => isLocked; set => isLocked = value; }
     #endregion
 
 
@@ -51,6 +54,10 @@ public class PlayerMovement : MonoBehaviour
 
     private void Update()
     {
+        if (IsLocked)
+        {
+            return;
+        }
         movementX = Input.GetAxisRaw("Horizontal");
 
         animator.SetFloat("Speed", Mathf.Abs(movementX));
@@ -64,6 +71,10 @@ public class PlayerMovement : MonoBehaviour
 
     private void FixedUpdate()
     {
+        if (IsLocked) 
+        {
+            return;
+        }
         Move();
     }
 
